@@ -1,6 +1,6 @@
 ## FRIDAY ONLINE!
 <div align="left">
-  "A imaginação é mais importante que o conhecimento." --- Albert Einstein
+  "A imaginação é mais importante que o conhecimento." --- <strong>Albert Einstein</strong>
 </div>
  
 <div align="left">
