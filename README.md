@@ -20,7 +20,7 @@
   <img align="center" alt="Baku-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Baku-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/940470208617926698/978504328379785216/75_Sem_Titulo_20220517224343.png?width=320&height=400">
   </div>
-  </div>
+ </div>
 <div align="left">
 <div style="display: inline_block"><br>
   <img align="center" alt="Baku-Sublime" height="30" width="100" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
@@ -30,7 +30,9 @@
   </div>
   </div>
   
-  ## --- CONTATOS
+<br>
+
+## --- CONTATOS
  
 <div align="left">
 <div> 
