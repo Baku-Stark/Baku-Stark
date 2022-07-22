@@ -1,14 +1,14 @@
 ## FRIDAY ONLINE!
-<div align="left">
-  "A imaginação é mais importante que o conhecimento." --- <strong>Albert Einstein</strong>
-</div>
- 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&multiline=true&height=75&lines=%22A+imagina%C3%A7%C3%A3o+%C3%A9+mais+importante+que+;o+conhecimento.%22;---+Albert+Einstein)](https://git.io/typing-svg)
+<br>
 <div align="left">
   <a href="https://github.com/Baku-Stark">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Baku-Stark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baku-Stark&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Baku-Stark&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&locale=pt-br)](https://git.io/streak-stats)
 
 <div align="left">
 <div style="display: inline_block"><br>
