@@ -17,7 +17,6 @@
   <img align="center" alt="Baku-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Baku-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Baku-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Baku-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Baku-pic" height="200" style="border-radius:50px" src="https://media.discordapp.net/attachments/940470208617926698/1000146541782241421/pngwing.com.png?width=400&height=400">
   </div>
  </div>
