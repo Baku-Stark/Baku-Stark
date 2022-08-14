@@ -35,20 +35,20 @@
  
 <div align="left">
 <div> 
-  <a href="https://twitter.com/Walleemc2" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" width="100"/>
+  <a href="https://twitter.com/Walleemc2">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF&color=111111" height="30" width="100"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/wallace-freitas-92a2061b6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="100"/>
+  <a href="https://www.linkedin.com/in/wallace-freitas-92a2061b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=111111" height="30" width="100"/>
   </a>
   
-  <a href="https://instagram.com/wallace_emc2" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&color=6e05a3&link=https://instagram.com/wallace_emc2"/>
+  <a href="https://instagram.com/wallace_emc2">
+    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&color=111111" height="30" width="100"/>
   </a>
   
-  <a href="https://www.reddit.com/user/StarkBakuha" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="30" width="100"/>
+  <a href="https://www.reddit.com/user/StarkBakuha">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=FFFFFF&color=111111" height="30" width="100"/>
   </a>
   
   </div>
