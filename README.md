@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&multiline=true&height=75&lines=%22A+imagina%C3%A7%C3%A3o+%C3%A9+mais+importante+que+;o+conhecimento.%22;---+Albert+Einstein)](https://git.io/typing-svg)
 <br>
+| Learning about: Python; JavaScript HTML and CSS 
+* 🖥️ Applying: Python e JS 
+* 🖥️ Result: Full Stack Developer
 <div align="left">
   <a href="https://github.com/Baku-Stark">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Baku-Stark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
