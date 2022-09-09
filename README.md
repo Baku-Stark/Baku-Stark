@@ -4,7 +4,7 @@
 
 <br>
 
->Learning About:
+> LEARNING ABOUT:
 * Python; 
 * JavaScript; 
 * HTML n' CSS 
