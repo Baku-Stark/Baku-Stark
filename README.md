@@ -4,9 +4,15 @@
 
 <br>
 
->Learning about: Python; JavaScript HTML and CSS 
-* 🖥️ Applying: Python e JS 
-* 🖥️ Result: Full Stack Developer
+>Learning About:
+* Python; 
+* JavaScript; 
+* HTML n' CSS 
+  * 🖥️ Applying: Python and JavaScript 
+  * 🖥️ Result: Full Stack Developer
+
+<br>
+
 <div align="left">
   <a href="https://github.com/Baku-Stark">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Baku-Stark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
