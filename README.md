@@ -5,8 +5,8 @@
 <br>
 
 > LEARNING ABOUT:
-* Python; 
-* JavaScript; 
+* Python
+* JavaScript
 * HTML n' CSS 
   * 🖥️ Applying: Python and JavaScript 
   * 🖥️ Result: Full Stack Developer
