@@ -13,24 +13,78 @@
 
 <br>
 
-<div align="left">
-  <a href="https://github.com/Baku-Stark">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Baku-Stark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baku-Stark&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Baku-Stark"><img src="https://github-readme-stats.vercel.app/api?username=Baku-Stark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
+    </td>
+    <td>
+      <a href="http://www.github.com/Baku-Stark"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Baku-Stark&theme=tokyonight" alt="Baku-Stark" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/Baku-Stark"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baku-Stark&layout=compact&langs_count=7&theme=tokyonight"/></a>
+    </td>
+  <tr>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+        </a>
+        <p align="center">JavaScript</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+      </a>
+        <p align="center">CSS</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+        </a>
+        <p align="center">HTML5</p>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>            
+      <p align="center">
+        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+      </a>
+        <p align="center">NodeJS</p>
+      </p>
+    </td>
+    <td>   
+      <p align="center">
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+          <img alt="Baku-Python" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        </a>
+        <p align="center">Python</p>
+      </p>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
 
-<img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=Baku-Stark&theme=tokyonight" alt="Baku-Stark" />
+<br>
+<br>
 
-<div align="left">
-<div style="display: inline_block"><br>
-  <img alt="Baku-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Baku-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Baku-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Baku-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Baku-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  </div>
- </div>
-
+> SOFTWARES
 <div align="left">
 <div style="display: inline_block"><br>
   <img align="center" alt="Baku-Sublime" height="30" width="100" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
@@ -43,27 +97,26 @@
 <br>
 <br>
 
-> CONTATOS
-<div align="left">
-<div> 
-  <a href="https://twitter.com/Walleemc2">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF&color=111111" height="30" width="100"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/wallace-freitas-92a2061b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=111111" height="30" width="100"/>
-  </a>
-  
-  <a href="https://instagram.com/wallace_emc2">
-    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&color=111111" height="30" width="100"/>
-  </a>
-  
-  <a href="https://www.reddit.com/user/StarkBakuha">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=FFFFFF&color=111111" height="30" width="100"/>
-  </a>
-  
-  </div>
-</div>
+> CONTACTS
+
+<br>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://twitter.com/Walleemc2"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/wallace-freitas-92a2061b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
+    </td>
+    <td>
+      <a href="https://instagram.com/wallace_emc2"><img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
+    </td>
+    <td>
+      <a href="https://www.reddit.com/user/StarkBakuha"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
+    </td>
+  </tr>
+</table>
 
 <br>
 <br>
