@@ -7,8 +7,8 @@
 > LEARNING ABOUT:
 * Python
 * JavaScript
-* HTML n' CSS 
-  * 🖥️ Applying: Python and JavaScript 
+  * 🖥️ Applying: Python and JavaScript
+* HTML n' CSS  
   * 🖥️ Result: Full Stack Developer
 
 <br>
@@ -19,7 +19,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baku-Stark&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Baku-Stark&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&locale=pt-br)](https://git.io/streak-stats)
+<img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=Baku-Stark&theme=tokyonight" alt="Baku-Stark" />
 
 <div align="left">
 <div style="display: inline_block"><br>
@@ -28,8 +28,6 @@
   <img alt="Baku-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Baku-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Baku-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  
-  <img align="right" alt="Baku-pic" height="200" style="border-radius:50px" src="https://media.discordapp.net/attachments/940470208617926698/1000146541782241421/pngwing.com.png?width=400&height=400">
   </div>
  </div>
 
@@ -46,7 +44,6 @@
 <br>
 
 > CONTATOS
- 
 <div align="left">
 <div> 
   <a href="https://twitter.com/Walleemc2">
@@ -67,3 +64,11 @@
   
   </div>
 </div>
+
+<br>
+<br>
+
+> ACHIEVEMENTS
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Baku-Stark" alt="Baku-Stark" /></a> </p>
+
+<img align="right" alt="Baku-pic" height="200" style="border-radius:50px" src="https://media.discordapp.net/attachments/940470208617926698/1000146541782241421/pngwing.com.png?width=400&height=400">
