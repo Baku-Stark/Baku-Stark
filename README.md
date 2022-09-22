@@ -15,13 +15,13 @@
 
 <div align="center">
   <a href="https://github.com/Baku-Stark">
-    <img height="250em" width="300" src="https://github-readme-stats.vercel.app/api?username=Baku-Stark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="250em" width="250" src="https://github-readme-stats.vercel.app/api?username=Baku-Stark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   </a>
   <a href="http://www.github.com/Baku-Stark">
-    <img height="250em" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=Baku-Stark&theme=tokyonight" alt="Baku-Stark" />
+    <img height="250em" width="250" src="https://github-readme-streak-stats.herokuapp.com/?user=Baku-Stark&theme=tokyonight" alt="Baku-Stark" />
   </a>
   <a href="https://github.com/Baku-Stark">
-    <img height="250em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baku-Stark&layout=compact&langs_count=7&theme=tokyonight" />
+    <img height="250em" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baku-Stark&layout=compact&langs_count=7&theme=tokyonight" />
   </a>
 </div>
 
