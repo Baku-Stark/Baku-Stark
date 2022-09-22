@@ -13,73 +13,68 @@
 
 <br>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Baku-Stark"><img src="https://github-readme-stats.vercel.app/api?username=Baku-Stark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
-    </td>
-    <td>
-      <a href="http://www.github.com/Baku-Stark"><img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=Baku-Stark&theme=tokyonight" alt="Baku-Stark" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/Baku-Stark"><img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baku-Stark&layout=compact&langs_count=7&theme=tokyonight" /></a>
-    </td>
-  <tr>
-  <tr>
-    <td>
-      <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+<div align="center">
+  <a href="https://github.com/Baku-Stark">
+    <img height="250em" width="300" src="https://github-readme-stats.vercel.app/api?username=Baku-Stark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="http://www.github.com/Baku-Stark">
+    <img height="250em" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=Baku-Stark&theme=tokyonight" alt="Baku-Stark" />
+  </a>
+  <a href="https://github.com/Baku-Stark">
+    <img height="250em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baku-Stark&layout=compact&langs_count=7&theme=tokyonight" />
+  </a>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <p align="center">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+          </a>
+          <p align="center">JavaScript</p>
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
         </a>
-        <p align="center">JavaScript</p>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-      </a>
-        <p align="center">CSS</p>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+          <p align="center">CSS</p>
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+          </a>
+          <p align="center">HTML5</p>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>            
+        <p align="center">
+          <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
         </a>
-        <p align="center">HTML5</p>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>            
-      <p align="center">
-        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-      </a>
-        <p align="center">NodeJS</p>
-      </p>
-    </td>
-    <td>   
-      <p align="center">
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img alt="Baku-Python" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-        </a>
-        <p align="center">Python</p>
-      </p>
-    </td>
-    <td>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-  </tr>
-</table>
+          <p align="center">NodeJS</p>
+        </p>
+      </td>
+      <td>   
+        <p align="center">
+          <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+            <img alt="Baku-Python" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+          </a>
+          <p align="center">Python</p>
+        </p>
+      </td>
+      <td>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 <br>
