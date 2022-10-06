@@ -36,102 +36,101 @@
 <br>
 
 > **🖱️ TECHNOLOGIES**
-<table>
-  <thead>
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th colspan="1">OPERATIONAL SYSTEM</th>
+      </tr>
+    </thead>
     <tr>
-      <th colspan="1">OPERATIONAL SYSTEM</th>
+      <td>
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+      </td>
     </tr>
-  </thead>
-  <tr>
-    <td>
-      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-    </td>
-  </tr>
-</table>
-
-<table>
-  <thead>
+  </table>
+  <table>
+    <thead>
+      <tr>
+        <th colspan="3">LANGUAGES</th>
+      </tr>
+    </thead>
     <tr>
-      <th colspan="3">LANGUAGES</th>
+      <td> 
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> 
+      </td>
+      <td> 
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> 
+      </td>
+      <td> 
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
+      </td>
     </tr>
-  </thead>
-  <tr>
-    <td> 
-      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> 
-    </td>
-    <td> 
-      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> 
-    </td>
-    <td> 
-      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
-    </td>
-  </tr>
- </table>
- <table>
-  <thead>
+  </table>
+  <table>
+    <thead>
+      <tr>
+        <th colspan="2">FRONT-END STRUCTURE</th>
+      </tr>
+    </thead>
     <tr>
-      <th colspan="2">FRONT-END STRUCTURE</th>
+      <td> 
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+      </td>
+      <td> 
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
+      </td>
     </tr>
-  </thead>
-  <tr>
-    <td> 
-      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-    </td>
-    <td> 
-      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
-    </td>
-  </tr>
- </table>
-
-<table>
-  <thead>
+  </table>
+  <table>
+    <thead>
+      <tr>
+        <th colspan="3">BROWSERS</th>
+      </tr>
+    </thead>
     <tr>
-      <th colspan="3">BROWSERS</th>
+      <td>
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" />
+      </td>
+      <td>
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" />
+      </td>
+      <td>
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" />
+      </td>
     </tr>
-  </thead>
-  <tr>
-    <td>
-      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" />
-    </td>
-    <td>
-      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" />
-    </td>
-    <td>
-      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" />
-    </td>
-  </tr>
-</table>
-
-<table>
-  <thead>
+  </table>
+  <table>
+    <thead>
+      <tr>
+        <th colspan="7">SOFTWARES</th>
+      </tr>
+    </thead>
     <tr>
-      <th colspan="7">SOFTWARES</th>
+      <td>
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      </td>
+      <td>
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      </td>
+      <td>
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+      </td>
+      <td>
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+      </td>
+      <td>
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+      </td>
+      <td>
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      </td>
+      <td>
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain-wordmark.svg" />
+      </td>
     </tr>
-  </thead>
-  <tr>
-    <td>
-      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    </td>
-    <td>
-      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    </td>
-    <td>
-      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-    </td>
-    <td>
-      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-    </td>
-    <td>
-      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-    </td>
-    <td>
-      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    </td>
-    <td>
-      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain-wordmark.svg" />
-    </td>
-  </tr>
-</table>
+  </table>
+</div>
 
 <br>
 <br>
