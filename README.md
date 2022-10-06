@@ -17,9 +17,13 @@
 <div align="left">
   <a href="https://github.com/Baku-Stark">
     <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api?username=Baku-Stark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  </a><a href="http://www.github.com/Baku-Stark">
+  </a>
+  <br>
+  <a href="http://www.github.com/Baku-Stark">
     <img height="150em" width="350em" src="https://github-readme-streak-stats.herokuapp.com/?user=Baku-Stark&theme=tokyonight" alt="Baku-Stark" />
-  </a><a href="https://github.com/Baku-Stark">
+  </a>
+  <br>
+  <a href="https://github.com/Baku-Stark">
     <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baku-Stark&layout=compact&langs_count=7&theme=tokyonight" />
   </a>
 </div>
