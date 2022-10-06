@@ -69,6 +69,7 @@
     <thead>
       <tr>
         <th colspan="2">FRONT-END STRUCTURE</th>
+        <th colspan="3">BROWSERS</th>
       </tr>
     </thead>
     <tr>
@@ -78,15 +79,7 @@
       <td> 
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
       </td>
-    </tr>
-  </table>
-  <table>
-    <thead>
-      <tr>
-        <th colspan="3">BROWSERS</th>
-      </tr>
-    </thead>
-    <tr>
+      <!--TABELA BROWSERS-->
       <td>
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" />
       </td>
