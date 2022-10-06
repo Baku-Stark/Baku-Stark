@@ -34,25 +34,17 @@
 
 > 🖱️ TECHNOLOGIES
 <table>
-    <thead>
-        <tr>PROGRAMMNING LANGAGUES</tr>
-    </thead>
+<table>
+  <thead>
     <tr>
-        <td>
-            <p align="center">
-                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-                </a>
-                <p align="center">JavaScript</p>
-            </p>
-            <p align="center">
-                <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-                <img alt="Baku-Python" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-              </a>
-            <p align="center">Python</p>
-        </p>
-        </td>
+      <th colspan="3">LANGUAGES</th>
     </tr>
+  </thead>
+  <tr>
+    A
+    <td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td><td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> </td>
+  </tr>
+ </table>
 </table>
 
 <br>
