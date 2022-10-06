@@ -4,7 +4,7 @@
 
 <br>
 
-> LEARNING ABOUT:
+> **LEARNING ABOUT:**
 * Python
 * JavaScript
   * 🖥️ Applying: Python and JavaScript
@@ -13,27 +13,42 @@
 
 <br>
 
-> 📝 STATUS
+> **📝 STATUS**
 <div align="left">
   <a href="https://github.com/Baku-Stark">
-    <img height="250em" width="250" src="https://github-readme-stats.vercel.app/api?username=Baku-Stark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="250em" width="250em" src="https://github-readme-stats.vercel.app/api?username=Baku-Stark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   </a>
-  <br><a href="http://www.github.com/Baku-Stark">
-    <img height="250em" width="250" src="https://github-readme-streak-stats.herokuapp.com/?user=Baku-Stark&theme=tokyonight" alt="Baku-Stark" />
+  <a href="http://www.github.com/Baku-Stark">
+    <img height="250em" width="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=Baku-Stark&theme=tokyonight" alt="Baku-Stark" />
   </a>
-  <br><a href="https://github.com/Baku-Stark">
-    <img height="250em" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baku-Stark&layout=compact&langs_count=7&theme=tokyonight" />
+  <a href="https://github.com/Baku-Stark">
+    <img height="250em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baku-Stark&layout=compact&langs_count=7&theme=tokyonight" />
   </a>
 </div>
 
 <br>
 <br>
 
-> 🏅 ACHIEVEMENTS
+> **🏅 ACHIEVEMENTS**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Baku-Stark" alt="Baku-Stark" /></a> </p>
 
-> 🖱️ TECHNOLOGIES
+<br>
+<br>
+
+> **🖱️ TECHNOLOGIES**
 <table>
+  <thead>
+    <tr>
+      <th colspan="1">OPERATIONAL SYSTEM</th>
+    </tr>
+  </thead>
+  <tr>
+    <td>
+      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+    </td>
+  </tr>
+</table>
+
 <table>
   <thead>
     <tr>
@@ -52,25 +67,76 @@
     </td>
   </tr>
  </table>
+ <table>
+  <thead>
+    <tr>
+      <th colspan="2">FRONT-END STRUCTURE</th>
+    </tr>
+  </thead>
+  <tr>
+    <td> 
+      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    </td>
+    <td> 
+      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
+    </td>
+  </tr>
+ </table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3">BROWSERS</th>
+    </tr>
+  </thead>
+  <tr>
+    <td>
+      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" />
+    </td>
+    <td>
+      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" />
+    </td>
+    <td>
+      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="7">SOFTWARES</th>
+    </tr>
+  </thead>
+  <tr>
+    <td>
+      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    </td>
+    <td>
+      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    </td>
+    <td>
+      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+    </td>
+    <td>
+      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+    </td>
+    <td>
+      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+    </td>
+    <td>
+      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    </td>
+    <td>
+      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain-wordmark.svg" />
+    </td>
+  </tr>
 </table>
 
 <br>
 <br>
 
-> 🖥️ SOFTWARES
-<div align="left">
-  <div style="display: inline_block">
-    <img align="center" alt="Baku-Sublime" height="30" width="100" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-    <img align="center" alt="Baku-PYCharm" height="30" width="100" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
-    <img align="center" alt="Baku-VSC" height="30" width="100" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img align="center" alt="Baku-NotePad" height="30" width="100" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
-  </div>
-</div>
-
-<br>
-<br>
-
-> 📱 CONTACTS
+> **📱 CONTACTS**
 
 <table>
   <tr>
