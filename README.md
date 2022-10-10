@@ -149,8 +149,3 @@
     </tr>
   </table>
 </div>
-
-<br>
-<br>
-
-<img align="right" alt="Baku-pic" height="200" style="border-radius:50px" src="https://media.discordapp.net/attachments/940470208617926698/1000146541782241421/pngwing.com.png?width=400&height=400">
