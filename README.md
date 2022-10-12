@@ -55,6 +55,7 @@
     <thead>
       <tr>
         <th colspan="3">LANGUAGES</th>
+        <th colspan="1">DataBase</th>
       </tr>
     </thead>
     <tr>
@@ -67,12 +68,16 @@
       <td> 
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
       </td>
+      <!--TABELA DATABASE-->
+      <td> 
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> 
+      </td>
     </tr>
   </table>
   <table>
     <thead>
       <tr>
-        <th colspan="2">FRONT-END STRUCTURE</th>
+        <th colspan="3">FRONT-END STRUCTURE</th>
         <th colspan="3">BROWSERS</th>
       </tr>
     </thead>
@@ -82,6 +87,9 @@
       </td>
       <td> 
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
+      </td>
+      <td> 
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
       </td>
       <!--TABELA BROWSERS-->
       <td>
