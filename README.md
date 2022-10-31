@@ -13,7 +13,7 @@
 
 <a href="https://baku-stark.github.io/Portfolio-Wallace/indexBaku.html"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 <br>
-
+#
 > **📝 STATUS**
 <div align="left">
   <a href="https://github.com/Baku-Stark">
@@ -32,12 +32,14 @@
 <br>
 <br>
 
+#
 > **🏅 ACHIEVEMENTS**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Baku-Stark" alt="Baku-Stark" /></a> </p>
 
 <br>
 <br>
 
+#
 > **🖱️ TECHNOLOGIES**
 <div align="center">
   <table>
@@ -78,7 +80,7 @@
   <table>
     <thead>
       <tr>
-        <th colspan="3">FRONT-END STRUCTURE</th>
+        <th colspan="4">FRONT-END STRUCTURE</th>
         <th colspan="3">BROWSERS</th>
       </tr>
     </thead>
@@ -91,6 +93,9 @@
       </td>
       <td> 
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+      </td>
+      <td>
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
       </td>
       <!--TABELA BROWSERS-->
       <td>
@@ -139,6 +144,7 @@
 <br>
 <br>
 
+#
 > **📱 CONTACTS**
 <div align="center">
   <table>
