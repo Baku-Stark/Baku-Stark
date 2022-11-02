@@ -59,7 +59,7 @@
     <thead>
       <tr>
         <th colspan="3">LANGUAGES</th>
-        <th colspan="1">DataBase</th>
+        <th colspan="2">DataBase</th>
       </tr>
     </thead>
     <tr>
@@ -75,6 +75,9 @@
       <!--TABELA DATABASE-->
       <td> 
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> 
+      </td>
+      <td>
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
       </td>
     </tr>
   </table>
