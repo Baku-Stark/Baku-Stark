@@ -4,7 +4,8 @@
 
 <br>
 
-> **LEARNING ABOUT:**
+## **LEARNING ABOUT:**
+
 * **Python**
 * **JavaScript**
   * 🖥️ Applying: Python and JavaScript
@@ -15,7 +16,9 @@
 <br>
 
 #
-> **📝 STATUS**
+
+## **📝 STATUS**
+
 <div align="left">
   <a href="https://github.com/Baku-Stark">
     <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api?username=Baku-Stark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -34,14 +37,18 @@
 <br>
 
 #
-> **🏅 ACHIEVEMENTS**
+
+## **🏅 ACHIEVEMENTS**
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Baku-Stark" alt="Baku-Stark" /></a> </p>
 
 <br>
 <br>
 
 #
-> **🖱️ TECHNOLOGIES**
+
+## **🖱️ TECHNOLOGIES**
+
 <div align="center">
   <table>
     <thead>
@@ -74,10 +81,10 @@
       </td>
       <!--TABELA DATABASE-->
       <td> 
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> 
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> 
       </td>
       <td>
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
       </td>
     </tr>
   </table>
@@ -149,7 +156,9 @@
 <br>
 
 #
-> **📱 CONTACTS**
+
+## **📱 CONTACTS**
+
 <div align="center">
   <table>
     <tr>
