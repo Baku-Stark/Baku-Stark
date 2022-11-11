@@ -27,12 +27,12 @@
 
 <br>
 
-## **⌨️ ABOUT ME:**
+## **⌨️ ABOUT ME**
 * **Wallace (Baku-Stark), 21 years**
 * **Full Stack Developer**
 * **Programming since Abpril 2022**
 
-## **⌨️ SKILLS:**
+## **⌨️ SKILLS**
 * **Python**
 * **JavaScript**
 * **HTML n' CSS**
