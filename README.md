@@ -28,7 +28,7 @@
 <br>
 
 ## **⌨️ ABOUT ME**
-* **Wallace (Baku-Stark), 21 years**
+* **Wallace (Baku-Stark), 22 years**
 * **Full Stack Developer**
 * **Programming since Abpril 2022**
 
