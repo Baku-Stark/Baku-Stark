@@ -76,7 +76,7 @@
         <th colspan="1">OPERATIONAL SYSTEM</th>
       </tr>
     </thead>
-    <tr>
+    <tr align="center">
       <td>
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
       </td>
@@ -89,7 +89,7 @@
         <th colspan="2">DataBase</th>
       </tr>
     </thead>
-    <tr>
+    <tr align="center">
       <td> 
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> 
       </td>
@@ -115,7 +115,7 @@
         <th colspan="3">BROWSERS</th>
       </tr>
     </thead>
-    <tr>
+    <tr align="center">
       <td> 
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
       </td>
@@ -146,7 +146,7 @@
         <th colspan="7">SOFTWARES</th>
       </tr>
     </thead>
-    <tr>
+    <tr align="center">
       <td>
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       </td>
