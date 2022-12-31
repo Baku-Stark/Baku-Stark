@@ -39,6 +39,24 @@
 
 <a href="https://baku-stark.github.io/Portfolio-Wallace/indexBaku.html"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
+<table>
+  <tr align="center">
+    <td>
+      <img height="50" src="img/SprightBlue-Icon.png"/>
+      <br>
+      <a
+          href="https://discord.com/api/oauth2/authorize?client_id=1055540316725313626&permissions=8&scope=applications.commands%20bot"
+      >Spright Blue [Dicord Bot]
+      </a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Language: <mark>Python</mark>
+    </td>
+  </tr>
+</table>
+
 <br>
 
 ## **📝 STATUS**
