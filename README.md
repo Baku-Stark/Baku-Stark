@@ -129,7 +129,7 @@
   <table>
     <thead>
       <tr>
-        <th colspan="4">FRONT-END STRUCTURE</th>
+        <th colspan="7">FRONT-END STRUCTURE</th>
         <th colspan="3">BROWSERS</th>
       </tr>
     </thead>
@@ -145,6 +145,15 @@
       </td>
       <td>
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+      </td>
+      <td>
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+      </td>
+      <td>
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+      </td>
+      <td>
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
       </td>
       <!--TABELA BROWSERS-->
       <td>
