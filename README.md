@@ -129,50 +129,52 @@
   <table>
     <thead>
       <tr>
-        <th colspan="7">FRONT-END STRUCTURE</th>
+        <th colspan="4">FRONT-END STRUCTURE</th>
         <th colspan="3">BROWSERS</th>
       </tr>
     </thead>
-    <tr align="center">
-      <td> 
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-      </td>
-      <td> 
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
-      </td>
-      <td> 
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-      </td>
-      <td>
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-      </td>
-      <!--TABELA BROWSERS-->
-      <td>
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" />
-      </td>
-      <td>
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" />
-      </td>
-      <td>
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" />
-      </td>
-      <!--TABELA FRONT-END STRUCTURE-->
+    <tbody>
       <tr align="center">
-      <td>
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      </td>
-      <td>
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-      </td>
-      <td>
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-      </td>
-      <td>
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-      </td>
-    </tr>
-    </tr>
+        <td> 
+          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+        </td>
+        <td> 
+          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
+        </td>
+        <td> 
+          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+        </td>
+        <td>
+          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+        </td>
+        <!--TABELA BROWSERS-->
+        <td>
+          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" />
+        </td>
+        <td>
+          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" />
+        </td>
+        <td>
+          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" />
+        </td>
+        <!--TABELA FRONT-END STRUCTURE-->
+        <tr align="center">
+        <td>
+          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+        </td>
+        <td>
+          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+        </td>
+        <td>
+          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+        </td>
+        <td>
+          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+        </td>
+      </tr>
+    </tbody>
   </table>
+  
   <table>
     <thead>
       <tr>
