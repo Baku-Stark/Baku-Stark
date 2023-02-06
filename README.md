@@ -90,7 +90,7 @@
 <div align="left">
   <table>
     <thead>
-      <tr>
+      <tr align="center">
         <th colspan="1">OPERATIONAL SYSTEM</th>
       </tr>
     </thead>
@@ -102,7 +102,7 @@
   </table>
   <table>
     <thead>
-      <tr>
+      <tr align="center">
         <th colspan="3">LANGUAGES</th>
         <th colspan="2">DataBase</th>
       </tr>
@@ -128,7 +128,7 @@
   </table>
   <table>
     <thead>
-      <tr>
+      <tr align="center">
         <th colspan="4">FRONT-END STRUCTURE</th>
         <th colspan="3">BROWSERS</th>
       </tr>
@@ -177,7 +177,7 @@
   
   <table>
     <thead>
-      <tr>
+      <tr align="center">
         <th colspan="7">SOFTWARES</th>
       </tr>
     </thead>
