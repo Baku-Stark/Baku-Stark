@@ -46,7 +46,7 @@
       <br>
       <a
           href="https://discord.com/api/oauth2/authorize?client_id=1055540316725313626&permissions=8&scope=applications.commands%20bot"
-      >Spright Blue [Dicord Bot]
+      >Spright Blue [Discord Bot]
       </a>
     </td>
   </tr>
