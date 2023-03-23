@@ -104,7 +104,7 @@
   <table>
     <thead>
       <tr align="center">
-        <th colspan="3">LANGUAGES</th>
+        <th colspan="5">LANGUAGES</th>
         <th colspan="2">DataBase</th>
       </tr>
     </thead>
@@ -117,6 +117,12 @@
       </td>
       <td> 
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
+      </td>
+      <td>
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/> 
+      </td>
+      <td> 
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/> 
       </td>
       <!--TABELA DATABASE-->
       <td> 
