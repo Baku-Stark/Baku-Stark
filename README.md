@@ -104,7 +104,7 @@
   <table>
     <thead>
       <tr align="center">
-        <th colspan="5">LANGUAGES</th>
+        <th colspan="6">LANGUAGES</th>
         <th colspan="2">DataBase</th>
       </tr>
     </thead>
@@ -112,6 +112,9 @@
       <td> 
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> 
       </td>
+      <td>
+          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+        </td>
       <td> 
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> 
       </td>
@@ -168,7 +171,7 @@
   <table>
     <thead>
       <tr align="center">
-        <th colspan="4">FRONT-END STRUCTURE</th>
+        <th colspan="4">FRONT-END</th>
         <th colspan="3">BROWSERS</th>
       </tr>
     </thead>
@@ -196,19 +199,32 @@
         <td>
           <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" />
         </td>
-        <!--TABELA FRONT-END STRUCTURE-->
-        <tr align="center">
+      </tr>
+    </tbody>
+  </table>
+
+  <table>
+    <thead>
+      <tr align="center">
+        <th colspan="5">FRAMEWORKS</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr align="center">
         <td>
           <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        </td>
-        <td>
-          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
         </td>
         <td>
           <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
         </td>
         <td>
           <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+        </td>
+        <td>
+          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+        </td>
+        <td>
+          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
         </td>
       </tr>
     </tbody>
