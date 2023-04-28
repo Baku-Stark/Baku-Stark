@@ -125,7 +125,7 @@
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/> 
       </td>
       <td> 
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/> 
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/> 
       </td>
       <!--TABELA DATABASE-->
       <td> 
