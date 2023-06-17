@@ -13,7 +13,7 @@
 
 <th colspan="2">
 
-**_BAKU STARK CV_**
+# **_BAKU STARK CV_**
 
 </th>
 
@@ -152,9 +152,9 @@
 <!-- ==== ACHIEVEMENTS ==== -->
 <tr align="center">
 
-<th colspan="2">
+<th colspan="1">
 
-# 🏅 ACHIEVEMENTS
+## 🏅 ACHIEVEMENTS
 
 </th>
 
