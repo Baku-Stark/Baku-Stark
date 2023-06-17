@@ -152,7 +152,7 @@
 <!-- ==== ACHIEVEMENTS ==== -->
 <tr align="center">
 
-<th colspan="1">
+<th colspan="2">
 
 ## 🏅 ACHIEVEMENTS
 
@@ -162,7 +162,7 @@
 
 <tr align="center">
 
-<td>
+<td colspan="2">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Baku-Stark" alt="Baku-Stark" /></a> </p>
 
@@ -196,13 +196,6 @@
     </td>
   </tr>
 </table>
-
-## **🏅 ACHIEVEMENTS**
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Baku-Stark" alt="Baku-Stark" /></a> </p>
-
-<br>
-<br>
 
 ## **🖱️ TECHNOLOGIES**
 
