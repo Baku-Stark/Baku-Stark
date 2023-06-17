@@ -4,28 +4,98 @@
 
 <br>
 
-## **📱 CONTACTS**
+<table>
 
+<!-- ===== HEAD CV ===== -->
+<thead>
+
+<tr align="center">
+
+<th colspan="2">
+
+**_BAKU STARK CV_**
+
+</th>
+
+</tr>
+
+</thead>
+
+<!-- ===== BODY CV [RIGHT] ===== -->
+<tbody>
+
+<td>
+<!-- ==== TABLE CONTACTS ==== -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://twitter.com/Walleemc2"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
-      </td>
-      <td>
-        <a href="https://www.linkedin.com/in/wallace-freitas-92a2061b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
-      </td>
-      <td>
-        <a href="https://instagram.com/wallace_emc2"><img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
-      </td>
-      <td>
-        <a href="https://www.reddit.com/user/StarkBakuha"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
-      </td>
-    </tr>
-  </table>
-</div>
 
-<br>
+<table>
+
+<thead>
+
+<tr align="right">
+
+<th>
+
+**📱 CONTACTS**
+
+</th>
+</tr>
+
+</thead>
+
+<tbody>
+
+<!-- TWITTER BADGE -->
+<tr align="center">
+
+<td>
+
+<a href="https://twitter.com/Walleemc2"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
+
+</td>
+
+</tr>
+
+<!-- LINKEDIN BADGE -->
+<tr align="center">
+
+<td>
+
+<a href="https://www.linkedin.com/in/wallace-freitas-92a2061b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
+
+</td>
+
+</tr>
+<!-- INSTAGRAM BADGE -->
+<tr align="center">
+
+<td>
+
+<a href="https://instagram.com/wallace_emc2"><img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
+
+</td>
+
+</tr>
+
+<!-- REDDIT BADGE -->
+<tr align="center">
+
+<td>
+
+<a href="https://www.reddit.com/user/StarkBakuha"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+</td>
+
+<td>
 
 ## **⌨️ ABOUT ME**
 * **Wallace (Baku-Stark), 22 years**
@@ -36,8 +106,78 @@
 * **Python**
 * **JavaScript**
 * **HTML n' CSS**
+* **Java**
+* **C++**
+* **Rust**
 
 <a href="https://baku-stark.github.io/Portfolio-Wallace/indexBaku.html"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+
+</td>
+<!-- ==== END OF TABLE CONTACTS ==== -->
+
+<!-- ==== STATUS ==== -->
+<tr align="center">
+
+<td>
+
+<a href="https://github.com/Baku-Stark">
+    <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api?username=Baku-Stark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</a>
+
+</td>
+
+<td>
+
+<a href="http://www.github.com/Baku-Stark">
+    <img height="150em" width="350em" src="https://github-readme-streak-stats.herokuapp.com/?user=Baku-Stark&theme=tokyonight" alt="Baku-Stark"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr align="center">
+
+<td colspan="2">
+
+<a href="https://github.com/Baku-Stark">
+    <img height="250em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baku-Stark&layout=compact&langs_count=7&theme=tokyonight"/>
+</a>
+
+</td>
+
+</tr>
+<!-- ==== END OF STATUS ==== -->
+
+<!-- ==== ACHIEVEMENTS ==== -->
+<tr align="center">
+
+<th colspan="2">
+
+# 🏅 ACHIEVEMENTS
+
+</th>
+
+</tr>
+
+<tr align="center">
+
+<td>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Baku-Stark" alt="Baku-Stark" /></a> </p>
+
+</td>
+
+</tr>
+<!-- ==== END OF ACHIEVEMENTS ==== -->
+
+</tbody>
+
+</table>
+
+
+<br>
+
 
 <table>
   <tr align="center">
@@ -56,27 +196,6 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-## **📝 STATUS**
-
-<div align="left">
-  <a href="https://github.com/Baku-Stark">
-    <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api?username=Baku-Stark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  <br>
-  <a href="http://www.github.com/Baku-Stark">
-    <img height="150em" width="350em" src="https://github-readme-streak-stats.herokuapp.com/?user=Baku-Stark&theme=tokyonight" alt="Baku-Stark"/>
-  </a>
-  <br>
-  <a href="https://github.com/Baku-Stark">
-    <img height="250em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baku-Stark&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
-<br>
-<br>
 
 ## **🏅 ACHIEVEMENTS**
 
@@ -122,7 +241,7 @@
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
       </td>
       <td>
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/> 
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
       </td>
       <td> 
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/> 
