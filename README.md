@@ -296,6 +296,139 @@ Language: `Python`
 
 </tr>
 
+<!-- -(BROWSERS)- -->
+<tr align="center">
+
+<td colspan="2">
+
+<table>
+
+  <thead>
+  
+  <tr align="center">
+
+  <th colspan="3">BROWSERS</th>
+
+  </tr>
+
+  </thead>
+  <tbody>
+
+  <tr align="center">
+  <td>
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" />
+  </td>
+
+  <td>
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" />
+  </td>
+
+  <td>
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" />
+  </td>
+  </tr>
+
+  </tbody>
+
+</table>
+
+</td>
+
+</tr>
+<!-- -(BROWSERS)- -->
+
+<!-- -(FRONT-END)- -->
+<tr align="center">
+
+<td colspan="2">
+
+<table>
+
+  <thead>
+  
+  <tr align="center">
+
+  <th colspan="4">FRONT-END</th>
+
+  </tr>
+
+  </thead>
+  <tbody>
+
+  <tr align="center">
+  <td> 
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  </td>
+
+  <td> 
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
+  </td>
+
+  <td> 
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  </td>
+
+  <td>
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+  </td>
+  </tr>
+  
+  </tbody>
+
+</table>
+
+</td>
+
+</tr>
+<!-- -(END OF FRONT-END)- -->
+
+<!-- -(FRAMEWORS)- -->
+<tr align="center">
+
+<td colspan="2">
+
+<table>
+  <thead>
+  <tr align="center">
+
+  <th colspan="5">FRAMEWORKS</th>
+
+  </tr>
+  </thead>
+  <tbody>
+  <tr align="center">
+  
+  <td>
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </td>
+
+  <td>
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  </td>
+
+  <td>
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  </td>
+
+  <td>
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  </td>
+
+  <td>
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  </td>
+
+  </tr>
+  </tbody>
+</table>
+
+</td>
+
+</tr>
+<!-- -(FRAMEWORS)- -->
+
+
+<!-- -(LANGUAGES)- -->
 <tr align="center">
 
 <td colspan="2">
@@ -409,68 +542,3 @@ Language: `Python`
 
 </div>
 <!-- ===== END OF CURRICULO ===== -->
-
-<div align="left">
-
-  <table>
-    <thead>
-      <tr align="center">
-        <th colspan="4">FRONT-END</th>
-        <th colspan="3">BROWSERS</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr align="center">
-        <td> 
-          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-        </td>
-        <td> 
-          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
-        </td>
-        <td> 
-          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-        </td>
-        <td>
-          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-        </td>
-        <!--TABELA BROWSERS-->
-        <td>
-          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" />
-        </td>
-        <td>
-          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" />
-        </td>
-        <td>
-          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
-  <table>
-    <thead>
-      <tr align="center">
-        <th colspan="5">FRAMEWORKS</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr align="center">
-        <td>
-          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        </td>
-        <td>
-          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-        </td>
-        <td>
-          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-        </td>
-        <td>
-          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-        </td>
-        <td>
-          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
