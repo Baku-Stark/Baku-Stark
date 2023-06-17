@@ -107,24 +107,24 @@
 <td>
 
 ## **⌨️ ABOUT ME**
-**Wallace (Baku-Stark), 22 years**
+_Wallace (Baku-Stark), 22 years_
 
-**Full Stack Developer**
+_Full Stack Developer_
 
-**Programming since April 2022**
+_Programming since April 2022_
 
 ## **⌨️ SKILLS**
-**Python**
+_Python_
 
-**JavaScript**
+_JavaScript_
 
-**HTML n' CSS**
+_HTML n' CSS_
 
-**Java**
+_Java_
 
-**C++**
+_C++_
 
-**Rust**
+_Rust_
 
 
 <a href="https://baku-stark.github.io/Portfolio-Wallace/indexBaku.html"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
@@ -296,9 +296,9 @@ Language: `Python`
 
 </tr>
 
-<tr colspan="2" align="center">
+<tr align="center">
 
-<td>
+<td colspan="2">
 
 <table>
 
@@ -318,18 +318,23 @@ Language: `Python`
   <td> 
       <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> 
   </td>
+  
   <td>
     <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <td>
+  </td>
+
   <td>
     <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> 
   </td>
+
   <td> 
     <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
   </td>
+
   <td>
     <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
   </td>
+
   <td> 
     <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/> 
   </td>
