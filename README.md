@@ -107,17 +107,25 @@
 <td>
 
 ## **⌨️ ABOUT ME**
-* **Wallace (Baku-Stark), 22 years**
-* **Full Stack Developer**
-* **Programming since April 2022**
+**Wallace (Baku-Stark), 22 years**
+
+**Full Stack Developer**
+
+**Programming since April 2022**
 
 ## **⌨️ SKILLS**
-* **Python**
-* **JavaScript**
-* **HTML n' CSS**
-* **Java**
-* **C++**
-* **Rust**
+**Python**
+
+**JavaScript**
+
+**HTML n' CSS**
+
+**Java**
+
+**C++**
+
+**Rust**
+
 
 <a href="https://baku-stark.github.io/Portfolio-Wallace/indexBaku.html"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
@@ -253,7 +261,6 @@ Language: `Python`
 <td>
 
 <table>
-
   <thead>
 
   <tr align="center">
@@ -283,8 +290,55 @@ Language: `Python`
   </tr>
 
   </tbody>
+</table>
 
-  </table>
+</td>
+
+</tr>
+
+<tr colspan="2" align="center">
+
+<td>
+
+<table>
+
+  <thead>
+
+  <tr align="center">
+
+  <th colspan="6">LANGUAGES</th>
+
+  </tr>
+
+  </thead>
+  <tbody>
+
+  <tr align="center">
+
+  <td> 
+      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> 
+  </td>
+  <td>
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <td>
+  <td>
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> 
+  </td>
+  <td> 
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
+  </td>
+  <td>
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
+  </td>
+  <td> 
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/> 
+  </td>
+
+  </tr>
+
+  </tbody>
+
+</table>
 
 </td>
 
@@ -309,13 +363,7 @@ Language: `Python`
       </tr>
     </thead>
     <tr align="center">
-      <td> 
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> 
-      </td>
       <td>
-          <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-        </td>
-      <td> 
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> 
       </td>
       <td> 
