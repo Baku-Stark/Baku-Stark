@@ -301,7 +301,6 @@ Language: `Python`
 <td colspan="2">
 
 <table>
-
   <thead>
 
   <tr align="center">
@@ -318,7 +317,7 @@ Language: `Python`
   <td> 
       <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> 
   </td>
-  
+
   <td>
     <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   </td>
@@ -342,61 +341,34 @@ Language: `Python`
   </tr>
 
   </tbody>
-
 </table>
 
 </td>
 
 </tr>
-<!-- ==== END OF TECHNOLOGIES ==== -->
+<!-- -(END OF LANGUAGES)- -->
 
-</tbody>
 
-</table>
+<!-- -(SOFTWARES)- -->
+<tr align="center">
 
-</div>
-<!-- ===== END OF CURRICULO ===== -->
-
-<div align="left">
-
+<td colspan="2">
 
   <table>
-    <thead>
-      <tr align="center">
-        <th colspan="6">LANGUAGES</th>
-        <th colspan="2">DataBase</th>
-      </tr>
-    </thead>
-    <tr align="center">
-      <td>
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> 
-      </td>
-      <td> 
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
-      </td>
-      <td>
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-      </td>
-      <td> 
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/> 
-      </td>
-      <!--TABELA DATABASE-->
-      <td> 
-        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> 
-      </td>
-      <td>
-        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-      </td>
-    </tr>
-  </table>
-  
-  <table>
-    <thead>
-      <tr align="center">
-        <th colspan="7">SOFTWARES</th>
-      </tr>
-    </thead>
-    <tr align="center">
+
+  <thead>
+
+  <tr align="center">
+
+  <th colspan="7">SOFTWARES</th>
+
+  </tr>
+
+  </thead>
+
+  <tbody>
+
+  <tr align="center">
       <td>
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       </td>
@@ -418,8 +390,27 @@ Language: `Python`
       <td>
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain-wordmark.svg" />
       </td>
-    </tr>
+  </tr>
+
+  </tbody>
+
   </table>
+
+</td>
+
+</tr>
+<!-- -(END OF SOFTWARES)- -->
+
+<!-- ==== END OF TECHNOLOGIES ==== -->
+
+</tbody>
+
+</table>
+
+</div>
+<!-- ===== END OF CURRICULO ===== -->
+
+<div align="left">
 
   <table>
     <thead>
