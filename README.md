@@ -1,8 +1,17 @@
+<div align="center">
+
 ## FRIDAY ONLINE!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&multiline=true&height=75&lines=%22A+imagina%C3%A7%C3%A3o+%C3%A9+mais+importante+que+;o+conhecimento.%22;---+Albert+Einstein)](https://git.io/typing-svg)
 
+</div>
+
 <br>
+<br>
+<br>
+
+<!-- ===== CURRICULO ===== -->
+<div align="center">
 
 <table>
 
@@ -13,7 +22,7 @@
 
 <th colspan="2">
 
-# **_BAKU STARK CV_**
+# **_👾 BAKU STARK CV 👾_**
 
 </th>
 
@@ -36,7 +45,7 @@
 
 <th>
 
-**📱 CONTACTS**
+**📱 CONTACTS 📱**
 
 </th>
 </tr>
@@ -112,6 +121,31 @@
 
 <a href="https://baku-stark.github.io/Portfolio-Wallace/indexBaku.html"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
+<table>
+
+<tr align="center">
+
+<td>
+    <img height="50" src="img/SprightBlue-Icon.png"/>
+    <br>
+    <a
+      href="https://discord.com/api/oauth2/authorize?client_id=1055540316725313626&permissions=8&scope=applications.commands%20bot"
+    >Spright Blue [Discord Bot]
+    </a>
+</td>
+</tr>
+
+<tr align="center">
+
+<td>
+
+Language: `Python`
+</td>
+
+</tr>
+
+</table>
+
 </td>
 <!-- ==== END OF TABLE CONTACTS ==== -->
 
@@ -154,7 +188,7 @@
 
 <th colspan="2">
 
-## 🏅 ACHIEVEMENTS
+## 🏅 ACHIEVEMENTS 🏅
 
 </th>
 
@@ -171,47 +205,101 @@
 </tr>
 <!-- ==== END OF ACHIEVEMENTS ==== -->
 
+<!-- ==== TECHNOLOGIES ==== -->
+<tr align="center">
+
+<th colspan="2">
+
+## 🖱️ TECHNOLOGIES 🖱️
+
+</th>
+
+</tr>
+
+<tr align="center">
+
+<td>
+
+  <table>
+
+  <thead>
+
+  <tr align="center">
+
+  <th colspan="1">OPERATIONAL SYSTEM</th>
+
+  </tr>
+
+  </thead>
+
+  <tbody>
+
+  <tr align="center">
+
+  <td>
+
+  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+
+  </td>
+
+  </tr>
+
+  </tbody>
+
+  </table>
+
+</td>
+
+<td>
+
+<table>
+
+  <thead>
+
+  <tr align="center">
+
+  <th colspan="2">DataBase</th>
+
+  </tr>
+
+  </thead>
+
+  <tbody>
+
+  <tr align="center">
+
+  <td>
+
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+
+  </td>
+
+  <td>
+
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+
+  </td>
+
+  </tr>
+
+  </tbody>
+
+  </table>
+
+</td>
+
+</tr>
+<!-- ==== END OF TECHNOLOGIES ==== -->
+
 </tbody>
 
 </table>
 
-
-<br>
-
-
-<table>
-  <tr align="center">
-    <td>
-      <img height="50" src="img/SprightBlue-Icon.png"/>
-      <br>
-      <a
-          href="https://discord.com/api/oauth2/authorize?client_id=1055540316725313626&permissions=8&scope=applications.commands%20bot"
-      >Spright Blue [Discord Bot]
-      </a>
-    </td>
-  </tr>
-  <tr align="center">
-    <td>
-      Language: <mark>Python</mark>
-    </td>
-  </tr>
-</table>
-
-## **🖱️ TECHNOLOGIES**
+</div>
+<!-- ===== END OF CURRICULO ===== -->
 
 <div align="left">
-  <table>
-    <thead>
-      <tr align="center">
-        <th colspan="1">OPERATIONAL SYSTEM</th>
-      </tr>
-    </thead>
-    <tr align="center">
-      <td>
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-      </td>
-    </tr>
-  </table>
+
 
   <table>
     <thead>
