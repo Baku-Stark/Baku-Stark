@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&multiline=true&height=75&lines=%22A+imagina%C3%A7%C3%A3o+%C3%A9+mais+importante+que+;o+conhecimento.%22;---+Albert+Einstein)](https://git.io/typing-svg)
 
 
-⬇️ Update: `Baku Stark CV`
+`⬇️ Update: Baku Stark CV`
 
 </div>
 
@@ -378,7 +378,7 @@ Language: `Python`
   </td>
 
   <td>
-    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
   </td>
   </tr>
   
