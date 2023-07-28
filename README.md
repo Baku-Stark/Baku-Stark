@@ -4,6 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&multiline=true&height=75&lines=%22A+imagina%C3%A7%C3%A3o+%C3%A9+mais+importante+que+;o+conhecimento.%22;---+Albert+Einstein)](https://git.io/typing-svg)
 
+
+⬇️ Update: `Baku Stark CV`
+
 </div>
 
 <br>
@@ -107,9 +110,11 @@
 <td>
 
 ## **⌨️ ABOUT ME**
-_Wallace (Baku-Stark), 22 years_
+_Wallace (Baku-Stark), 23 years_
 
 _Full Stack Developer_
+
+_Software Engineer_
 
 _Programming since April 2022_
 
@@ -348,7 +353,7 @@ Language: `Python`
   
   <tr align="center">
 
-  <th colspan="4">FRONT-END</th>
+  <th colspan="5">FRONT-END</th>
 
   </tr>
 
@@ -370,6 +375,10 @@ Language: `Python`
 
   <td>
     <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+  </td>
+
+  <td>
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
   </td>
   </tr>
   
