@@ -270,7 +270,7 @@ Language: `Python`
 
   <tr align="center">
 
-  <th colspan="2">DataBase</th>
+  <th colspan="3">DataBase</th>
 
   </tr>
 
@@ -289,6 +289,12 @@ Language: `Python`
   <td>
 
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+
+  </td>
+
+  <td>
+
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
   </td>
 
