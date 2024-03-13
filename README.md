@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&multiline=true&height=75&lines=%22A+imagina%C3%A7%C3%A3o+%C3%A9+mais+importante+que+;o+conhecimento.%22;---+Albert+Einstein)](https://git.io/typing-svg)
 
 
-`⬇️ Update: Baku Stark CV`
+⬇️ Update: `Baku Stark CV`
 
 </div>
 
@@ -122,6 +122,8 @@ _Programming since April 2022_
 _Python_
 
 _JavaScript_
+
+_TypeScript_
 
 _HTML n' CSS_
 
