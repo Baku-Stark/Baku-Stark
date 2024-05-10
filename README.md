@@ -510,7 +510,7 @@ Language: `Python`
 
   <tr align="center">
 
-  <th colspan="7">SOFTWARES</th>
+  <th colspan="8">SOFTWARES n' IDE</th>
 
   </tr>
 
@@ -539,6 +539,9 @@ Language: `Python`
       </td>
       <td>
         <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain-wordmark.svg" />
+      </td>
+      <td>
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
       </td>
   </tr>
 
