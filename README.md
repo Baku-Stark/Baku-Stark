@@ -241,7 +241,7 @@ Language: `Python`
 
   <tr align="center">
 
-  <th colspan="1">OPERATIONAL SYSTEM</th>
+  <th colspan="2">OPERATIONAL SYSTEM</th>
 
   </tr>
 
@@ -254,6 +254,12 @@ Language: `Python`
   <td>
 
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+
+  </td>
+
+  <td>
+
+  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
   </td>
 
