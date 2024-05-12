@@ -213,7 +213,7 @@ Language: `Python`
 
 <td colspan="2">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Baku-Stark" alt="Baku-Stark" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Baku-Stark&theme=tokyonight" alt="Baku-Stark" /></a> </p>
 
 </td>
 
