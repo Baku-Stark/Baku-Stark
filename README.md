@@ -392,7 +392,7 @@ Language: `Python`
   </td>
 
   <td>
-    <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
+    <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
   </td>
   </tr>
   
@@ -461,7 +461,7 @@ Language: `Python`
 
   <tr align="center">
 
-  <th colspan="6">LANGUAGES</th>
+  <th colspan="7">LANGUAGES</th>
 
   </tr>
 
@@ -492,6 +492,10 @@ Language: `Python`
 
   <td> 
     <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/> 
+  </td>
+
+  <td>
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
   </td>
 
   </tr>
