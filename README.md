@@ -13,7 +13,6 @@
 
 ⬇️ Update: `Baku Stark CV`
 
-<a href="https://baku-stark.github.io/Portfolio-Wallace/index.html"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
 > **⌨️ | ABOUT ME**
 
@@ -21,6 +20,7 @@
 
 ` 🇺🇸 ` | My start in programming came through the Video Course (Python - 3 complete modules). Since then, I have continued to constantly improve my skills in Front and Back End development, aiming to be an excellent professional in the Full Stack area.
 
+<a href="https://baku-stark.github.io/Portfolio-Wallace/index.html"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
 - _Wallace (Baku-Stark) de Freitas, 23 years_
 
@@ -30,7 +30,8 @@
 
 - _Programming since April 2022_
 
-<br>
+
+<br />
 
 > **⌨️ | BOOTCAMPS**
 
@@ -109,7 +110,7 @@
   </tbody>
 </table>
 
-<br>
+<br />
 
 > **⌨️ | SKILLS**
 
@@ -122,7 +123,7 @@
 <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=openjdk&logoColor=orange&color=111111"/>
 <img src="https://img.shields.io/badge/Ruby-3776AB?style=for-the-badge&logo=ruby&logoColor=darkred&color=111111"/>
 
-<br>
+<br />
 
 <img src="https://img.shields.io/badge/HTML5-3776AB?style=for-the-badge&logo=html5&logoColor=f54b02&color=111111"/>
 <img src="https://img.shields.io/badge/CSS3-3776AB?style=for-the-badge&logo=css3&logoColor=0c98f5&color=111111"/>
@@ -131,7 +132,7 @@
 <img src="https://img.shields.io/badge/TailWind-3776AB?style=for-the-badge&logo=tailwindcss&logoColor=ocean&color=111111"/>
 
 
-<br>
+<br />
 
 <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=05bafc&color=111111"/>
 <img src="https://img.shields.io/badge/Vue.JS-3776AB?style=for-the-badge&logo=vue.js&logoColor=lightgreen&color=111111"/>
@@ -145,8 +146,7 @@
 <img src="https://img.shields.io/badge/SQLite3-3776AB?style=for-the-badge&logo=sqlite&logoColor=05bafc&color=111111"/>
 <img src="https://img.shields.io/badge/MongoDB-3776AB?style=for-the-badge&logo=mongodb&logoColor=darkgreen&color=111111"/>
 
-
-<br>
+<br />
 
 > **📱 | CONTACTS**
 
@@ -184,7 +184,7 @@
   <tr align="center">
 
   <td>
-      <img height="50" src="img/im_sama_bot_discord.jpeg"/>
+      <img height="50"  width="50" src="img/im_sama_bot_discord.jpeg"/>
       <br>
       <a
         href="https://discord.com/api/oauth2/authorize?client_id=1055540316725313626&permissions=8&scope=applications.commands%20bot"
@@ -211,7 +211,7 @@
   <tr align="center">
 
   <td>
-      <img height="50" src="img/SprightBlue-Icon.png"/>
+      <img height="50" width="50" src="img/SprightBlue-Icon.png"/>
       <br>
       <a
         href="https://discord.com/api/oauth2/authorize?client_id=1055540316725313626&permissions=8&scope=applications.commands%20bot"
