@@ -4,281 +4,172 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&multiline=true&height=75&lines=%22A+imagina%C3%A7%C3%A3o+%C3%A9+mais+importante+que+;o+conhecimento.%22;---+Albert+Einstein)](https://git.io/typing-svg)
 
+</div>
+
+
+<div align="left">
+
+## **_👾 BAKU STARK CV 👾_**
 
 ⬇️ Update: `Baku Stark CV`
 
-</div>
-
-<br>
-<br>
-<br>
-
-<!-- ===== CURRICULO ===== -->
-<div align="center">
-
-<table>
-
-<!-- ===== HEAD CV ===== -->
-<thead>
-
-<tr align="center">
-
-<th colspan="2">
-
-# **_👾 BAKU STARK CV 👾_**
-
-</th>
-
-</tr>
-
-</thead>
-
-<!-- ===== BODY CV [RIGHT] ===== -->
-<tbody>
-
-<td>
-<!-- ==== TABLE CONTACTS ==== -->
-<div align="center">
-
-<table>
-
-<thead>
-
-<tr align="right">
-
-<th>
-
-**📱 CONTACTS 📱**
-
-</th>
-</tr>
-
-</thead>
-
-<tbody>
-
-<!-- TWITTER BADGE -->
-<tr align="center">
-
-<td>
-
-<a href="https://twitter.com/Walleemc2"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
-
-</td>
-
-</tr>
-
-<!-- LINKEDIN BADGE -->
-<tr align="center">
-
-<td>
-
-<a href="https://www.linkedin.com/in/wallace-freitas-92a2061b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
-
-</td>
-
-</tr>
-<!-- INSTAGRAM BADGE -->
-<tr align="center">
-
-<td>
-
-<a href="https://instagram.com/wallace_emc2"><img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
-
-</td>
-
-</tr>
-
-<!-- REDDIT BADGE -->
-<tr align="center">
-
-<td>
-
-<a href="https://www.reddit.com/user/StarkBakuha"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-</td>
-
-<td>
-
-## **⌨️ ABOUT ME**
-_Wallace (Baku-Stark), 23 years_
-
-_Full Stack Developer_
-
-_Software Engineer_
-
-_Programming since April 2022_
-
-## **⌨️ SKILLS**
-_Python_
-
-_JavaScript_
-
-_TypeScript_
-
-_HTML n' CSS_
-
-_Java_
-
-_C++_
-
-_Rust_
-
-
 <a href="https://baku-stark.github.io/Portfolio-Wallace/index.html"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
+> **⌨️ | ABOUT ME**
+
+` 🇧🇷 ` | Meu começo na programação veio pelo Curso Em Vídeo (Python - 3 módulos completos). Desde então, continuo aprimorando constantemente as minhas habilidades no desenolvimento Front e Back End, visando ser um excelente profissional na área Full Stack.
+
+` 🇺🇸 ` | My start in programming came through the Video Course (Python - 3 complete modules). Since then, I have continued to constantly improve my skills in Front and Back End development, aiming to be an excellent professional in the Full Stack area.
+
+
+- _Wallace (Baku-Stark) de Freitas, 23 years_
+
+- _Full Stack Developer_
+
+- _Software Engineer (Jala University)_
+
+- _Programming since April 2022_
+
+<br>
+
+> **⌨️ | BOOTCAMPS**
+
 <table>
 
-<tr align="center">
+  <thead>
 
-<td>
-    <img height="50" src="img/SprightBlue-Icon.png"/>
-    <br>
-    <a
-      href="https://discord.com/api/oauth2/authorize?client_id=1055540316725313626&permissions=8&scope=applications.commands%20bot"
-    >Spright Blue [Discord Bot]
-    </a>
-</td>
-</tr>
+  <tr align="center">
 
-<tr align="center">
+  <th colspan="2">DIO BOOTCAMPS</th>
 
-<td>
+  </tr>
 
-Language: `Python`
-</td>
+  </thead>
 
-</tr>
+  <tbody>
 
-</table>
+  <tr align="center">
+  <td>
+  <table>
 
-</td>
-<!-- ==== END OF TABLE CONTACTS ==== -->
+  <tr align="center">
 
-<!-- ==== STATUS ==== -->
-<tr align="center">
+  <td>
+      <img height="50" src="img/bootcamp_java.png"/>
+      <br>
+      <a
+        href="https://web.dio.me/track/7da9882f-2f0d-4f4d-b997-f300ce50f9f5"
+      >Santander 2024 - Backend com Java
+      </a>
+  </td>
+  </tr>
 
-<td>
+  <tr align="center">
 
-<a href="https://github.com/Baku-Stark">
-    <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api?username=Baku-Stark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</a>
+  <td>
 
-</td>
-
-<td>
-
-<a href="http://www.github.com/Baku-Stark">
-    <img height="150em" width="350em" src="https://github-readme-streak-stats.herokuapp.com/?user=Baku-Stark&theme=tokyonight" alt="Baku-Stark"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr align="center">
-
-<td colspan="2">
-
-<a href="https://github.com/Baku-Stark">
-    <img height="250em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baku-Stark&layout=compact&langs_count=7&theme=tokyonight"/>
-</a>
-
-</td>
-
-</tr>
-<!-- ==== END OF STATUS ==== -->
-
-<!-- ==== ACHIEVEMENTS ==== -->
-<tr align="center">
-
-<th colspan="2">
-
-## 🏅 ACHIEVEMENTS 🏅
-
-</th>
-
-</tr>
-
-<tr align="center">
-
-<td colspan="2">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Baku-Stark&theme=tokyonight" alt="Baku-Stark" /></a> </p>
-
-</td>
-
-</tr>
-<!-- ==== END OF ACHIEVEMENTS ==== -->
-
-<!-- ==== TECHNOLOGIES ==== -->
-<tr align="center">
-
-<th colspan="2">
-
-## 🖱️ TECHNOLOGIES 🖱️
-
-</th>
-
-</tr>
-
-<tr align="center">
-
-<td>
+  Language: <img height=15 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
+   
+  </td>
+  </tr>
+  </table>
+  
+  </td>
+  <td>
 
   <table>
 
-  <thead>
-
   <tr align="center">
 
-  <th colspan="2">OPERATIONAL SYSTEM</th>
-
+  <td>
+      <img height="50" src="img/bootcamp_python.png"/>
+      <br>
+      <a
+        href="https://web.dio.me/track/70304c16-a7d8-4066-97de-16345e1653a6"
+      >Python AI Backend Developer
+      </a>
+  </td>
   </tr>
-
-  </thead>
-
-  <tbody>
 
   <tr align="center">
 
   <td>
 
-  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-
-  </td>
-
-  <td>
-
-  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-
+  Language: <img height=15 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    
   </td>
 
   </tr>
-
-  </tbody>
 
   </table>
 
-</td>
+  </td>
 
-<td>
+  </tr>
+  </tbody>
+</table>
+
+<br>
+
+> **⌨️ | SKILLS**
+
+<img src="https://img.shields.io/badge/Rusty-3776AB?style=for-the-badge&logo=rust&logoColor=gray&color=111111"/>
+<img src="https://img.shields.io/badge/MarkDown-3776AB?style=for-the-badge&logo=markdown&logoColor=darkgray&color=111111"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=blue&color=111111"/>
+<img src="https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=typescript&logoColor=darkblue&color=111111"/>
+<img src="https://img.shields.io/badge/C%2B%2B-3776AB?style=for-the-badge&logo=c%2B%2B&logoColor=0c00f7&color=111111"/>
+<img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=yellow&color=111111"/>
+<img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=openjdk&logoColor=orange&color=111111"/>
+<img src="https://img.shields.io/badge/Ruby-3776AB?style=for-the-badge&logo=ruby&logoColor=darkred&color=111111"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-3776AB?style=for-the-badge&logo=html5&logoColor=f54b02&color=111111"/>
+<img src="https://img.shields.io/badge/CSS3-3776AB?style=for-the-badge&logo=css3&logoColor=0c98f5&color=111111"/>
+<img src="https://img.shields.io/badge/SASS-3776AB?style=for-the-badge&logo=sass&logoColor=fc519b&color=111111"/>
+<img src="https://img.shields.io/badge/BootStrap-3776AB?style=for-the-badge&logo=bootstrap&logoColor=purple&color=111111"/>
+<img src="https://img.shields.io/badge/TailWind-3776AB?style=for-the-badge&logo=tailwindcss&logoColor=ocean&color=111111"/>
+
+
+<br>
+
+<img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=05bafc&color=111111"/>
+<img src="https://img.shields.io/badge/Vue.JS-3776AB?style=for-the-badge&logo=vue.js&logoColor=lightgreen&color=111111"/>
+<img src="https://img.shields.io/badge/Angular.JS-3776AB?style=for-the-badge&logo=angular&logoColor=f74239&color=111111"/>
+<img src="https://img.shields.io/badge/FLASK-3776AB?style=for-the-badge&logo=flask&logoColor=gray&color=111111"/>
+<img src="https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=django&logoColor=darkgreen&color=111111"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=05bafc&color=111111"/>
+<img src="https://img.shields.io/badge/SQLite3-3776AB?style=for-the-badge&logo=sqlite&logoColor=05bafc&color=111111"/>
+<img src="https://img.shields.io/badge/MongoDB-3776AB?style=for-the-badge&logo=mongodb&logoColor=darkgreen&color=111111"/>
+
+
+<br>
+
+> **📱 | CONTACTS**
+
+<a href="https://twitter.com/Walleemc2"><img src="https://img.shields.io/badge/Walleemc2-1DA1F2?style=for-the-badge&logo=x&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
+<a href="https://instagram.com/wallace_emc2"><img src="https://img.shields.io/badge/walle_emc2-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
+<a href="https://www.linkedin.com/in/wallace-freitas-92a2061b6/"><img src="https://img.shields.io/badge/Wallace freitas-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
+<a href="https://www.reddit.com/user/StarkBakuha"><img src="https://img.shields.io/badge/StarkBakuha-FF4500?style=for-the-badge&logo=reddit&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
+
+</div>
+
+----
+
+<div align="left">
+
+## **_👾BAKU STARK - Projects👾_**
 
 <table>
+
   <thead>
 
   <tr align="center">
 
-  <th colspan="3">DataBase</th>
+  <th colspan="2">DISCORD BOTS</th>
 
   </tr>
 
@@ -287,288 +178,64 @@ Language: `Python`
   <tbody>
 
   <tr align="center">
+  <td>
+  <table>
+
+  <tr align="center">
 
   <td>
-
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-
+      <img height="50" src="img/im_sama_bot_discord.jpeg"/>
+      <br>
+      <a
+        href="https://discord.com/api/oauth2/authorize?client_id=1055540316725313626&permissions=8&scope=applications.commands%20bot"
+      >Imu Bot [Discord Bot]
+      </a>
   </td>
-
-  <td>
-
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-
-  </td>
-
-  <td>
-
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-
-  </td>
-
   </tr>
 
-  </tbody>
-</table>
+  <tr align="center">
 
-</td>
+  <td>
 
-</tr>
-
-<!-- -(BROWSERS)- -->
-<tr align="center">
-
-<td colspan="2">
-
-<table>
-
-  <thead>
+  Language: <img height=15 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+   
+  </td>
+  </tr>
+  </table>
   
-  <tr align="center">
-
-  <th colspan="3">BROWSERS</th>
-
-  </tr>
-
-  </thead>
-  <tbody>
-
-  <tr align="center">
+  </td>
   <td>
-    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" />
-  </td>
-
-  <td>
-    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" />
-  </td>
-
-  <td>
-    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" />
-  </td>
-  </tr>
-
-  </tbody>
-
-</table>
-
-</td>
-
-</tr>
-<!-- -(BROWSERS)- -->
-
-<!-- -(FRONT-END)- -->
-<tr align="center">
-
-<td colspan="2">
-
-<table>
-
-  <thead>
-  
-  <tr align="center">
-
-  <th colspan="5">FRONT-END</th>
-
-  </tr>
-
-  </thead>
-  <tbody>
-
-  <tr align="center">
-  <td> 
-    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </td>
-
-  <td> 
-    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
-  </td>
-
-  <td> 
-    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  </td>
-
-  <td>
-    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  </td>
-
-  <td>
-    <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
-  </td>
-  </tr>
-  
-  </tbody>
-
-</table>
-
-</td>
-
-</tr>
-<!-- -(END OF FRONT-END)- -->
-
-<!-- -(FRAMEWORS)- -->
-<tr align="center">
-
-<td colspan="2">
-
-<table>
-  <thead>
-  <tr align="center">
-
-  <th colspan="5">FRAMEWORKS</th>
-
-  </tr>
-  </thead>
-  <tbody>
-  <tr align="center">
-  
-  <td>
-    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </td>
-
-  <td>
-    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  </td>
-
-  <td>
-    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  </td>
-
-  <td>
-    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  </td>
-
-  <td>
-    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-  </td>
-
-  </tr>
-  </tbody>
-</table>
-
-</td>
-
-</tr>
-<!-- -(FRAMEWORS)- -->
-
-
-<!-- -(LANGUAGES)- -->
-<tr align="center">
-
-<td colspan="2">
-
-<table>
-  <thead>
-
-  <tr align="center">
-
-  <th colspan="7">LANGUAGES</th>
-
-  </tr>
-
-  </thead>
-  <tbody>
-
-  <tr align="center">
-
-  <td> 
-      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> 
-  </td>
-
-  <td>
-    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  </td>
-
-  <td>
-    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> 
-  </td>
-
-  <td> 
-    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
-  </td>
-
-  <td>
-    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-  </td>
-
-  <td> 
-    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/> 
-  </td>
-
-  <td>
-    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
-  </td>
-
-  </tr>
-
-  </tbody>
-</table>
-
-</td>
-
-</tr>
-<!-- -(END OF LANGUAGES)- -->
-
-
-<!-- -(SOFTWARES)- -->
-<tr align="center">
-
-<td colspan="2">
 
   <table>
 
-  <thead>
+  <tr align="center">
+
+  <td>
+      <img height="50" src="img/SprightBlue-Icon.png"/>
+      <br>
+      <a
+        href="https://discord.com/api/oauth2/authorize?client_id=1055540316725313626&permissions=8&scope=applications.commands%20bot"
+      >Spright Blue [Discord Bot]
+      </a>
+  </td>
+  </tr>
 
   <tr align="center">
 
-  <th colspan="8">SOFTWARES n' IDE</th>
+  <td>
+
+  Language: <img height=15 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    
+  </td>
 
   </tr>
-
-  </thead>
-
-  <tbody>
-
-  <tr align="center">
-      <td>
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      </td>
-      <td>
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      </td>
-      <td>
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-      </td>
-      <td>
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-      </td>
-      <td>
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-      </td>
-      <td>
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-      </td>
-      <td>
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain-wordmark.svg" />
-      </td>
-      <td>
-        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-      </td>
-  </tr>
-
-  </tbody>
 
   </table>
 
-</td>
+  </td>
 
-</tr>
-<!-- -(END OF SOFTWARES)- -->
-
-<!-- ==== END OF TECHNOLOGIES ==== -->
-
-</tbody>
-
+  </tr>
+  </tbody>
 </table>
 
 </div>
-<!-- ===== END OF CURRICULO ===== -->
