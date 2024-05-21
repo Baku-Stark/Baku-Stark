@@ -131,7 +131,6 @@
 <img src="https://img.shields.io/badge/BootStrap-3776AB?style=for-the-badge&logo=bootstrap&logoColor=purple&color=111111"/>
 <img src="https://img.shields.io/badge/TailWind-3776AB?style=for-the-badge&logo=tailwindcss&logoColor=ocean&color=111111"/>
 
-
 <br />
 
 <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=05bafc&color=111111"/>
@@ -140,7 +139,7 @@
 <img src="https://img.shields.io/badge/FLASK-3776AB?style=for-the-badge&logo=flask&logoColor=gray&color=111111"/>
 <img src="https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=django&logoColor=darkgreen&color=111111"/>
 
-<br>
+<br />
 
 <img src="https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=05bafc&color=111111"/>
 <img src="https://img.shields.io/badge/SQLite3-3776AB?style=for-the-badge&logo=sqlite&logoColor=05bafc&color=111111"/>
