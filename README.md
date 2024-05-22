@@ -16,11 +16,11 @@
 
 > **⌨️ | ABOUT ME**
 
-` 🇧🇷 ` | Meu começo na programação veio pelo Curso Em Vídeo (Python - 3 módulos completos). Desde então, continuo aprimorando constantemente as minhas habilidades no desenolvimento Front e Back End, visando ser um excelente profissional na área Full Stack.
+<br />` 🇧🇷 ` | Meu começo na programação veio pelo Curso Em Vídeo (Python - 3 módulos completos). Desde então, continuo aprimorando constantemente as minhas habilidades no desenolvimento Front e Back End, visando ser um excelente profissional na área Full Stack.
 
-` 🇺🇸 ` | My start in programming came through the Video Course (Python - 3 complete modules). Since then, I have continued to constantly improve my skills in Front and Back End development, aiming to be an excellent professional in the Full Stack area.
+<br />` 🇺🇸 ` | My start in programming came through the Video Course (Python - 3 complete modules). Since then, I have continued to constantly improve my skills in Front and Back End development, aiming to be an excellent professional in the Full Stack area.
 
-<a href="https://baku-stark.github.io/Portfolio-Wallace/index.html"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+<br /><a href="https://baku-stark.github.io/Portfolio-Wallace/index.html"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
 - _Wallace (Baku-Stark) de Freitas, 23 years_
 
@@ -123,29 +123,21 @@
 <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=openjdk&logoColor=orange&color=111111"/>
 <img src="https://img.shields.io/badge/Ruby-3776AB?style=for-the-badge&logo=ruby&logoColor=darkred&color=111111"/>
 
-<br />
-
-<img src="https://img.shields.io/badge/HTML5-3776AB?style=for-the-badge&logo=html5&logoColor=f54b02&color=111111"/>
+<br /><img src="https://img.shields.io/badge/HTML5-3776AB?style=for-the-badge&logo=html5&logoColor=f54b02&color=111111"/>
 <img src="https://img.shields.io/badge/CSS3-3776AB?style=for-the-badge&logo=css3&logoColor=0c98f5&color=111111"/>
 <img src="https://img.shields.io/badge/SASS-3776AB?style=for-the-badge&logo=sass&logoColor=fc519b&color=111111"/>
 <img src="https://img.shields.io/badge/BootStrap-3776AB?style=for-the-badge&logo=bootstrap&logoColor=purple&color=111111"/>
 <img src="https://img.shields.io/badge/TailWind-3776AB?style=for-the-badge&logo=tailwindcss&logoColor=ocean&color=111111"/>
 
-<br />
-
-<img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=05bafc&color=111111"/>
+<br /><img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=05bafc&color=111111"/>
 <img src="https://img.shields.io/badge/Vue.JS-3776AB?style=for-the-badge&logo=vue.js&logoColor=lightgreen&color=111111"/>
 <img src="https://img.shields.io/badge/Angular.JS-3776AB?style=for-the-badge&logo=angular&logoColor=f74239&color=111111"/>
 <img src="https://img.shields.io/badge/FLASK-3776AB?style=for-the-badge&logo=flask&logoColor=gray&color=111111"/>
 <img src="https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=django&logoColor=darkgreen&color=111111"/>
 
-<br />
-
-<img src="https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=05bafc&color=111111"/>
+<br /><img src="https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=05bafc&color=111111"/>
 <img src="https://img.shields.io/badge/SQLite3-3776AB?style=for-the-badge&logo=sqlite&logoColor=05bafc&color=111111"/>
-<img src="https://img.shields.io/badge/MongoDB-3776AB?style=for-the-badge&logo=mongodb&logoColor=darkgreen&color=111111"/>
-
-<br />
+<img src="https://img.shields.io/badge/MongoDB-3776AB?style=for-the-badge&logo=mongodb&logoColor=darkgreen&color=111111"/><br />
 
 > **📱 | CONTACTS**
 
