@@ -31,7 +31,12 @@
 - _Programming since April 2022_
 
 
-<br />
+> **📱 | CONTACTS**
+
+<a href="https://twitter.com/Walleemc2"><img src="https://img.shields.io/badge/Walleemc2-1DA1F2?style=for-the-badge&logo=x&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
+<a href="https://instagram.com/wallace_emc2"><img src="https://img.shields.io/badge/walle_emc2-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
+<a href="https://www.linkedin.com/in/wallace-freitas-92a2061b6/"><img src="https://img.shields.io/badge/Wallace freitas-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
+<a href="https://www.reddit.com/user/StarkBakuha"><img src="https://img.shields.io/badge/StarkBakuha-FF4500?style=for-the-badge&logo=reddit&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
 
 > **⌨️ | BOOTCAMPS**
 
@@ -138,13 +143,6 @@
 <br /><img src="https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=05bafc&color=111111"/>
 <img src="https://img.shields.io/badge/SQLite3-3776AB?style=for-the-badge&logo=sqlite&logoColor=05bafc&color=111111"/>
 <img src="https://img.shields.io/badge/MongoDB-3776AB?style=for-the-badge&logo=mongodb&logoColor=darkgreen&color=111111"/><br />
-
-> **📱 | CONTACTS**
-
-<a href="https://twitter.com/Walleemc2"><img src="https://img.shields.io/badge/Walleemc2-1DA1F2?style=for-the-badge&logo=x&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
-<a href="https://instagram.com/wallace_emc2"><img src="https://img.shields.io/badge/walle_emc2-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
-<a href="https://www.linkedin.com/in/wallace-freitas-92a2061b6/"><img src="https://img.shields.io/badge/Wallace freitas-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
-<a href="https://www.reddit.com/user/StarkBakuha"><img src="https://img.shields.io/badge/StarkBakuha-FF4500?style=for-the-badge&logo=reddit&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
 
 </div>
 
