@@ -142,7 +142,8 @@
 
 <br /><img src="https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=05bafc&color=111111"/>
 <img src="https://img.shields.io/badge/SQLite3-3776AB?style=for-the-badge&logo=sqlite&logoColor=05bafc&color=111111"/>
-<img src="https://img.shields.io/badge/MongoDB-3776AB?style=for-the-badge&logo=mongodb&logoColor=darkgreen&color=111111"/><br />
+<img src="https://img.shields.io/badge/MongoDB-3776AB?style=for-the-badge&logo=mongodb&logoColor=darkgreen&color=111111"/>
+<img src="https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=docker&logoColor=0297F4c&color=111111"/><br />
 
 </div>
 
