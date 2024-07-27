@@ -112,6 +112,35 @@
   </td>
 
   </tr>
+  <tr>
+  <td>
+
+  <table>
+
+  <tr align="center">
+
+  <td>
+      <img height="50" src="img/bootcamp_docker.png"/>
+      <br>
+      <a
+        href="https://web.dio.me/track/7da9882f-2f0d-4f4d-b997-f300ce50f9f5"
+      >Docker Fundamentals
+      </a>
+  </td>
+  </tr>
+
+  <tr align="center">
+
+  <td>
+
+  Software: <img height=15 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+   
+  </td>
+  </tr>
+  </table>
+
+  </td>
+  </tr>
   </tbody>
 </table>
 
@@ -124,6 +153,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=blue&color=111111"/>
 <img src="https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=typescript&logoColor=darkblue&color=111111"/>
 <img src="https://img.shields.io/badge/C%2B%2B-3776AB?style=for-the-badge&logo=c%2B%2B&logoColor=0c00f7&color=111111"/>
+<img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=0c00f7&color=111111"/>
 <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=yellow&color=111111"/>
 <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=openjdk&logoColor=orange&color=111111"/>
 <img src="https://img.shields.io/badge/Ruby-3776AB?style=for-the-badge&logo=ruby&logoColor=darkred&color=111111"/>
@@ -143,7 +173,7 @@
 <br /><img src="https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=05bafc&color=111111"/>
 <img src="https://img.shields.io/badge/SQLite3-3776AB?style=for-the-badge&logo=sqlite&logoColor=05bafc&color=111111"/>
 <img src="https://img.shields.io/badge/MongoDB-3776AB?style=for-the-badge&logo=mongodb&logoColor=darkgreen&color=111111"/>
-<img src="https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=docker&logoColor=0297F4c&color=111111"/><br />
+<img src="https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=docker&logoColor=0297F4c&color=111111"/>
 
 </div>
 
