@@ -22,7 +22,7 @@
 
 <br /><a href="https://baku-stark.github.io/Portfolio-Wallace/index.html"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
-- _Wallace (Baku-Stark) de Freitas, 23 years_
+- _Wallace (Baku-Stark) de Freitas, 24 years_
 
 - _Full Stack Developer_
 
