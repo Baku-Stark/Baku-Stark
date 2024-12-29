@@ -1,6 +1,6 @@
 <div align="left">
 
-## FRIDAY ONLINE!
+# **_👾 BAKU STARK CV - Wallace de Freitas 👾_**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&multiline=true&height=75&lines=%22A+imagina%C3%A7%C3%A3o+%C3%A9+mais+importante+que+;o+conhecimento.%22;---+Albert+Einstein)](https://git.io/typing-svg)
 
@@ -9,12 +9,9 @@
 
 <div align="left">
 
-## **_👾 BAKU STARK CV 👾_**
-
 ⬇️ Update: `Baku Stark CV`
 
-
-> **⌨️ | ABOUT ME**
+## **⌨️ | ABOUT ME**
 
 <br />` 🇧🇷 ` | Meu começo na programação veio pelo Curso Em Vídeo (Python - 3 módulos completos). Desde então, continuo aprimorando constantemente as minhas habilidades no desenolvimento Front e Back End, visando ser um excelente profissional na área Full Stack.
 
@@ -30,15 +27,18 @@
 
 - _Programming since April 2022_
 
+<br /><br />
 
-> **📱 | CONTACTS**
+## **📱 | CONTACTS**
 
 <a href="https://twitter.com/Walleemc2"><img src="https://img.shields.io/badge/Walleemc2-1DA1F2?style=for-the-badge&logo=x&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
 <a href="https://instagram.com/wallace_emc2"><img src="https://img.shields.io/badge/walle_emc2-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
 <a href="https://www.linkedin.com/in/wallace-freitas-92a2061b6/"><img src="https://img.shields.io/badge/Wallace freitas-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
 <a href="https://www.reddit.com/user/StarkBakuha"><img src="https://img.shields.io/badge/StarkBakuha-FF4500?style=for-the-badge&logo=reddit&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
 
-> **⌨️ | BOOTCAMPS**
+<br /><br />
+
+## **⌨️ | BOOTCAMPS**
 
 <table>
 
@@ -112,7 +112,7 @@
   </td>
 
   </tr>
-  <tr>
+  <tr align="center">
   <td>
 
   <table>
@@ -130,7 +130,7 @@
   </tr>
 
   <tr align="center">
-
+    
   <td>
 
   Software: <img height=15 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
@@ -140,13 +140,40 @@
   </table>
 
   </td>
+
+  <td>
+    <table>
+
+  <tr align="center">
+
+  <td>
+      <img height="50" src="img/bootcamp_cs.png"/>
+      <br>
+      <a
+        href="https://web.dio.me/track/santander-ciberseguranca-2024"
+      >Santander Bootcamp Cibersegurança
+      </a>
+  </td>
+  </tr>
+
+  <tr align="center">
+    
+  <td>
+
+  System: <img height=15 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+   
+  </td>
+  </tr>
+  </table>
+  </td>
+  
   </tr>
   </tbody>
 </table>
 
-<br />
+<br /><br />
 
-> **⌨️ | SKILLS**
+## **⌨️ | LANGUAGES**
 
 <img src="https://img.shields.io/badge/Rusty-3776AB?style=for-the-badge&logo=rust&logoColor=gray&color=111111"/>
 <img src="https://img.shields.io/badge/MarkDown-3776AB?style=for-the-badge&logo=markdown&logoColor=darkgray&color=111111"/>
@@ -158,21 +185,39 @@
 <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=openjdk&logoColor=orange&color=111111"/>
 <img src="https://img.shields.io/badge/Ruby-3776AB?style=for-the-badge&logo=ruby&logoColor=darkred&color=111111"/>
 
-<br /><img src="https://img.shields.io/badge/HTML5-3776AB?style=for-the-badge&logo=html5&logoColor=f54b02&color=111111"/>
+<br /><br />
+
+## **⌨️ | FRONT-END**
+
+<img src="https://img.shields.io/badge/HTML5-3776AB?style=for-the-badge&logo=html5&logoColor=f54b02&color=111111"/>
 <img src="https://img.shields.io/badge/CSS3-3776AB?style=for-the-badge&logo=css3&logoColor=0c98f5&color=111111"/>
 <img src="https://img.shields.io/badge/SASS-3776AB?style=for-the-badge&logo=sass&logoColor=fc519b&color=111111"/>
 <img src="https://img.shields.io/badge/BootStrap-3776AB?style=for-the-badge&logo=bootstrap&logoColor=purple&color=111111"/>
 <img src="https://img.shields.io/badge/TailWind-3776AB?style=for-the-badge&logo=tailwindcss&logoColor=ocean&color=111111"/>
 
-<br /><img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=05bafc&color=111111"/>
+<br /><br />
+
+## **⌨️ | FRAMEWORKS**
+
+<img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=05bafc&color=111111"/>
 <img src="https://img.shields.io/badge/Vue.JS-3776AB?style=for-the-badge&logo=vue.js&logoColor=lightgreen&color=111111"/>
 <img src="https://img.shields.io/badge/Angular.JS-3776AB?style=for-the-badge&logo=angular&logoColor=f74239&color=111111"/>
 <img src="https://img.shields.io/badge/FLASK-3776AB?style=for-the-badge&logo=flask&logoColor=gray&color=111111"/>
 <img src="https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=django&logoColor=darkgreen&color=111111"/>
 
-<br /><img src="https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=05bafc&color=111111"/>
+<br /><br />
+
+## **⌨️ | DATABASE**
+
+<img src="https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=05bafc&color=111111"/>
 <img src="https://img.shields.io/badge/SQLite3-3776AB?style=for-the-badge&logo=sqlite&logoColor=05bafc&color=111111"/>
 <img src="https://img.shields.io/badge/MongoDB-3776AB?style=for-the-badge&logo=mongodb&logoColor=darkgreen&color=111111"/>
+<img src="https://img.shields.io/badge/Postgresql-3776AB?style=for-the-badge&logo=postgresql&logoColor=336791&color=111111"/>
+
+<br /><br />
+
+## **⌨️ | DOCKER**
+
 <img src="https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=docker&logoColor=0297F4c&color=111111"/>
 
 </div>
@@ -181,7 +226,7 @@
 
 <div align="left">
 
-## **_👾BAKU STARK - Projects👾_**
+# **_👾BAKU STARK - Projects👾_**
 
 <table>
 
