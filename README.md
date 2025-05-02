@@ -1,306 +1,91 @@
-<div align="left">
+<div align="center">
 
-# **_👾 BAKU STARK CV - Wallace de Freitas 👾_**
+# 👾 Wallace de Freitas (Baku-Stark) 👾
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&multiline=true&height=75&lines=%22A+imagina%C3%A7%C3%A3o+%C3%A9+mais+importante+que+;o+conhecimento.%22;---+Albert+Einstein)](https://git.io/typing-svg)
 
 </div>
 
+## 🚀 | ABOUT ME
 
-<div align="left">
++ 🇧🇷 Brazilian | 24 years | FullStack Developer and Hacker (White Hat)
++ Programming since April 2022
++ Software Engineer from **Jala University**
 
-⬇️ Update: `Baku Stark CV`
+<div align="center">
 
-## **⌨️ | ABOUT ME**
-
-<br />` 🇧🇷 ` | Meu começo na programação veio pelo Curso Em Vídeo (Python - 3 módulos completos). Desde então, continuo aprimorando constantemente as minhas habilidades no desenolvimento Front e Back End, visando ser um excelente profissional na área Full Stack.
-
-<br />` 🇺🇸 ` | My start in programming came through the Video Course (Python - 3 complete modules). Since then, I have continued to constantly improve my skills in Front and Back End development, aiming to be an excellent professional in the Full Stack area.
-
-<br /><a href="https://baku-stark.github.io/Portfolio-Wallace/index.html"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
-
-- _Wallace (Baku-Stark) de Freitas, 24 years_
-
-- _Full Stack Developer_
-
-- _Software Engineer (Jala University)_
-
-- _Programming since April 2022_
-
-<br /><br />
-
-## **📱 | CONTACTS**
-
-<a href="https://twitter.com/Walleemc2"><img src="https://img.shields.io/badge/Walleemc2-1DA1F2?style=for-the-badge&logo=x&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
-<a href="https://instagram.com/wallace_emc2"><img src="https://img.shields.io/badge/walle_emc2-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
-<a href="https://www.linkedin.com/in/wallace-freitas-92a2061b6/"><img src="https://img.shields.io/badge/Wallace freitas-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
-<a href="https://www.reddit.com/user/StarkBakuha"><img src="https://img.shields.io/badge/StarkBakuha-FF4500?style=for-the-badge&logo=reddit&logoColor=FFFFFF&color=111111" height="30" width="100"/></a>
-
-<br /><br />
-
-## **⌨️ | BOOTCAMPS**
-
-<table>
-
-  <thead>
-
-  <tr align="center">
-
-  <th colspan="2">DIO BOOTCAMPS</th>
-
-  </tr>
-
-  </thead>
-
-  <tbody>
-
-  <tr align="center">
-  <td>
-  <table>
-
-  <tr align="center">
-
-  <td>
-      <img height="50" src="img/bootcamp_java.png"/>
-      <br>
-      <a
-        href="https://web.dio.me/track/7da9882f-2f0d-4f4d-b997-f300ce50f9f5"
-      >Santander 2024 - Backend com Java
-      </a>
-  </td>
-  </tr>
-
-  <tr align="center">
-
-  <td>
-
-  Language: <img height=15 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
-   
-  </td>
-  </tr>
-  </table>
-  
-  </td>
-  <td>
-
-  <table>
-
-  <tr align="center">
-
-  <td>
-      <img height="50" src="img/bootcamp_python.png"/>
-      <br>
-      <a
-        href="https://web.dio.me/track/70304c16-a7d8-4066-97de-16345e1653a6"
-      >Python AI Backend Developer
-      </a>
-  </td>
-  </tr>
-
-  <tr align="center">
-
-  <td>
-
-  Language: <img height=15 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    
-  </td>
-
-  </tr>
-
-  </table>
-
-  </td>
-
-  </tr>
-  <tr align="center">
-  <td>
-
-  <table>
-
-  <tr align="center">
-
-  <td>
-      <img height="50" src="img/bootcamp_docker.png"/>
-      <br>
-      <a
-        href="https://web.dio.me/track/7da9882f-2f0d-4f4d-b997-f300ce50f9f5"
-      >Docker Fundamentals
-      </a>
-  </td>
-  </tr>
-
-  <tr align="center">
-    
-  <td>
-
-  Software: <img height=15 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-   
-  </td>
-  </tr>
-  </table>
-
-  </td>
-
-  <td>
-    <table>
-
-  <tr align="center">
-
-  <td>
-      <img height="50" src="img/bootcamp_cs.png"/>
-      <br>
-      <a
-        href="https://web.dio.me/track/santander-ciberseguranca-2024"
-      >Santander Bootcamp Cibersegurança
-      </a>
-  </td>
-  </tr>
-
-  <tr align="center">
-    
-  <td>
-
-  System: <img height=15 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-   
-  </td>
-  </tr>
-  </table>
-  </td>
-  
-  </tr>
-  </tbody>
-</table>
-
-<br /><br />
-
-## **⌨️ | LANGUAGES**
-
-<img src="https://img.shields.io/badge/Rusty-3776AB?style=for-the-badge&logo=rust&logoColor=gray&color=111111"/>
-<img src="https://img.shields.io/badge/MarkDown-3776AB?style=for-the-badge&logo=markdown&logoColor=darkgray&color=111111"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=blue&color=111111"/>
-<img src="https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=typescript&logoColor=darkblue&color=111111"/>
-<img src="https://img.shields.io/badge/C%2B%2B-3776AB?style=for-the-badge&logo=c%2B%2B&logoColor=0c00f7&color=111111"/>
-<img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=0c00f7&color=111111"/>
-<img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=yellow&color=111111"/>
-<img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=openjdk&logoColor=orange&color=111111"/>
-<img src="https://img.shields.io/badge/Ruby-3776AB?style=for-the-badge&logo=ruby&logoColor=darkred&color=111111"/>
-
-<br /><br />
-
-## **⌨️ | FRONT-END**
-
-<img src="https://img.shields.io/badge/HTML5-3776AB?style=for-the-badge&logo=html5&logoColor=f54b02&color=111111"/>
-<img src="https://img.shields.io/badge/CSS3-3776AB?style=for-the-badge&logo=css3&logoColor=0c98f5&color=111111"/>
-<img src="https://img.shields.io/badge/SASS-3776AB?style=for-the-badge&logo=sass&logoColor=fc519b&color=111111"/>
-<img src="https://img.shields.io/badge/BootStrap-3776AB?style=for-the-badge&logo=bootstrap&logoColor=purple&color=111111"/>
-<img src="https://img.shields.io/badge/TailWind-3776AB?style=for-the-badge&logo=tailwindcss&logoColor=ocean&color=111111"/>
-
-<br /><br />
-
-## **⌨️ | FRAMEWORKS**
-
-<img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=05bafc&color=111111"/>
-<img src="https://img.shields.io/badge/Vue.JS-3776AB?style=for-the-badge&logo=vue.js&logoColor=lightgreen&color=111111"/>
-<img src="https://img.shields.io/badge/Angular.JS-3776AB?style=for-the-badge&logo=angular&logoColor=f74239&color=111111"/>
-<img src="https://img.shields.io/badge/FLASK-3776AB?style=for-the-badge&logo=flask&logoColor=gray&color=111111"/>
-<img src="https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=django&logoColor=darkgreen&color=111111"/>
-
-<br /><br />
-
-## **⌨️ | DATABASE**
-
-<img src="https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=05bafc&color=111111"/>
-<img src="https://img.shields.io/badge/SQLite3-3776AB?style=for-the-badge&logo=sqlite&logoColor=05bafc&color=111111"/>
-<img src="https://img.shields.io/badge/MongoDB-3776AB?style=for-the-badge&logo=mongodb&logoColor=darkgreen&color=111111"/>
-<img src="https://img.shields.io/badge/Postgresql-3776AB?style=for-the-badge&logo=postgresql&logoColor=336791&color=111111"/>
-
-<br /><br />
-
-## **⌨️ | DOCKER**
-
-<img src="https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=docker&logoColor=0297F4c&color=111111"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://baku-stark.github.io/Portfolio-Wallace/index.html)
 
 </div>
 
-----
+## 📱 | CONTACTS
 
-<div align="left">
-
-# **_👾BAKU STARK - Projects👾_**
-
-<table>
-
-  <thead>
-
-  <tr align="center">
-
-  <th colspan="2">DISCORD BOTS</th>
-
-  </tr>
-
-  </thead>
-
-  <tbody>
-
-  <tr align="center">
-  <td>
-  <table>
-
-  <tr align="center">
-
-  <td>
-      <img height="50"  width="50" src="img/im_sama_bot_discord.jpeg"/>
-      <br>
-      <a
-        href="https://discord.com/api/oauth2/authorize?client_id=1055540316725313626&permissions=8&scope=applications.commands%20bot"
-      >Imu Bot [Discord Bot]
-      </a>
-  </td>
-  </tr>
-
-  <tr align="center">
-
-  <td>
-
-  Language: <img height=15 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-   
-  </td>
-  </tr>
-  </table>
+<div align="center">
   
-  </td>
-  <td>
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Walleemc2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-freitas-92a2061b6/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wallace_emc2)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/StarkBakuha)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
-  <table>
+</div>
 
-  <tr align="center">
+## 🛠️ | TECHNICAL SKILLS
 
-  <td>
-      <img height="50" width="50" src="img/SprightBlue-Icon.png"/>
-      <br>
-      <a
-        href="https://discord.com/api/oauth2/authorize?client_id=1055540316725313626&permissions=8&scope=applications.commands%20bot"
-      >Spright Blue [Discord Bot]
-      </a>
-  </td>
-  </tr>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-  <tr align="center">
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-  <td>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-  Language: <img height=15 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    
-  </td>
+### Bancos de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-  </tr>
+### Ferramentas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-  </table>
+## 🎓 | BOOTCAMPS
 
-  </td>
+| Bootcamp | Status | Certificado |
+|----------|--------|-------------|
+| [Santander 2024 - Backend com Java](https://web.dio.me/track/7da9882f-2f0d-4f4d-b997-f300ce50f9f5) | ✅ Completo | [Link]() |
+| [Python AI Backend Developer](https://web.dio.me/track/70304c16-a7d8-4066-97de-16345e1653a6) | ✅ Completo | [Link]() |
+| [Docker Fundamentals](https://web.dio.me/track/7da9882f-2f0d-4f4d-b997-f300ce50f9f5) | ✅ Completo | [Link]() |
+| [Santander Bootcamp Cibersegurança](https://web.dio.me/track/santander-ciberseguranca-2024) | ✅ Completo | [Link]() |
 
-  </tr>
-  </tbody>
-</table>
+## 🤖 | FEATURED PROJECTS
+
+### Discord Bots
+| Project | Description | Technologies |
+|---------|-----------|-------------|
+| [Imu Bot](https://discord.com/api/oauth2/authorize?client_id=1055540316725313626&permissions=8&scope=applications.commands%20bot) | Bot multifuncional para Discord | JavaScript, Node.js |
+| [Spright Blue](https://discord.com/api/oauth2/authorize?client_id=1055540316725313626&permissions=8&scope=applications.commands%20bot) | Bot com funcionalidades avançadas | Python, Discord.py |
+
+### Projects Repositories
+[![Portfolio-Projects](https://github-readme-stats.vercel.app/api/pin/?username=Baku-Stark&repo=Portfolio-Projects&theme=tokyonight)](https://github.com/Baku-Stark/Portfolio-Projects)
+
+## 📊 | GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baku-Stark&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=Baku-Stark&theme=tokyonight&hide_border=true)
 
 </div>
