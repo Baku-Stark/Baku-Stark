@@ -22,11 +22,13 @@
 
 <div align="center">
   
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Walleemc2)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Walleemc2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-freitas-92a2061b6/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wallace_emc2)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/StarkBakuha)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamakiamajiki360@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0192F9?style=for-the-badge&logo=hotmail&logoColor=white)](mailto:wallacefmds360@outlook.com)
 
 </div>
 
@@ -42,12 +44,12 @@
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-ff748c?style=flat&logo=sass&logoColor=white)
 
 ![Angular.js](https://img.shields.io/badge/Angular.js-FF0103?style=flat&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
@@ -55,36 +57,37 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-7DDA58?style=flat&logo=spring&logoColor=white)
 
-### Bancos de Dados
+### Data Base
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-316192?style=flat&logo=sqlite&logoColor=white)
 
-### Ferramentas
+### Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 🎓 | BOOTCAMPS
 
-| Bootcamp | Status | Certificado |
+| Bootcamp | Status | Certification |
 |----------|--------|-------------|
-| [Santander 2024 - Backend com Java](https://web.dio.me/track/7da9882f-2f0d-4f4d-b997-f300ce50f9f5) | ✅ Completo | [Link]() |
-| [Python AI Backend Developer](https://web.dio.me/track/70304c16-a7d8-4066-97de-16345e1653a6) | ✅ Completo | [Link]() |
-| [Docker Fundamentals](https://web.dio.me/track/7da9882f-2f0d-4f4d-b997-f300ce50f9f5) | ✅ Completo | [Link]() |
-| [Santander Bootcamp Cibersegurança](https://web.dio.me/track/santander-ciberseguranca-2024) | ✅ Completo | [Link]() |
+| [Santander 2024 - Backend com Java](https://web.dio.me/track/7da9882f-2f0d-4f4d-b997-f300ce50f9f5) | ✅ Completed | [Link](/certification/DIO%20-%20Certificado%20-%20BackEnd%20Java.pdf) |
+| [Python AI Backend Developer](https://web.dio.me/track/70304c16-a7d8-4066-97de-16345e1653a6) | ✅ Completed | [Link](/certification/DIO_-_Certificado_-_Conclusao.pdf) |
+| [Docker Fundamentals](https://web.dio.me/track/7da9882f-2f0d-4f4d-b997-f300ce50f9f5) | ✅ Completed | [Link](/certification//Certificado%20-%20Docker.pdf) |
+| [Santander Bootcamp Cibersegurança](https://web.dio.me/track/santander-ciberseguranca-2024) | ✅ Completed | [Link](/certification/Santander%20Bootcamp%20Cibersegurança.pdf) |
 
 ## 🤖 | FEATURED PROJECTS
 
 ### Discord Bots
 | Project | Description | Technologies |
 |---------|-----------|-------------|
-| [Imu Bot](https://discord.com/api/oauth2/authorize?client_id=1055540316725313626&permissions=8&scope=applications.commands%20bot) | Bot multifuncional para Discord | JavaScript, Node.js |
-| [Spright Blue](https://discord.com/api/oauth2/authorize?client_id=1055540316725313626&permissions=8&scope=applications.commands%20bot) | Bot com funcionalidades avançadas | Python, Discord.py |
+| [Heroes-Corporation-News](https://github.com/Baku-Stark/Heroes-Corporation-News) | Discord bot for manipulation and administration of the To Be Hero X RPG server | `JavaScript`, `Node.js` |
 
 ### Projects Repositories
 [![Portfolio-Projects](https://github-readme-stats.vercel.app/api/pin/?username=Baku-Stark&repo=Portfolio-Projects&theme=tokyonight)](https://github.com/Baku-Stark/Portfolio-Projects)
+
+[![Hacking Tools](https://github-readme-stats.vercel.app/api/pin/?username=Baku-Stark&repo=Hacking_Tools&theme=tokyonight)](https://github.com/Baku-Stark/Hacking_Tools)
 
 ## 📊 | GitHub Statistics
 
